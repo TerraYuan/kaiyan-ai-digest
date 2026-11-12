@@ -68,19 +68,17 @@ function fillDateList(dates, current) {
 }
 
 async function showDate(date, dates) {
-  $("status").textContent = "加载中…";
+  const status = $("status");
+  status.hidden = true;
+  status.textContent = "";
   $("date-pick").value = date;
   fillDateList(dates, date);
   setQsDate(date);
   try {
     const doc = await loadDigest(date);
     renderDigest(doc);
-    $("status").textContent = doc.updatedAt
-      ? `更新于 ${new Date(doc.updatedAt).toLocaleString("zh-CN")}`
-      : "";
   } catch (e) {
     $("content").innerHTML = `<p class="empty">${esc(e.message || e)}</p>`;
-    $("status").textContent = "";
   }
 }
 
