@@ -50,10 +50,7 @@ function renderDigest(doc) {
     })
     .join("");
 
-  $("content").innerHTML = `
-    <p class="status" style="margin:0 0 12px">${esc(doc.date || "")} · ${esc(doc.title || "AI产业信息简报")}</p>
-    ${sections}
-  `;
+  $("content").innerHTML = sections;
   document.title = `要闻速递｜${doc.date || ""}`;
 }
 
