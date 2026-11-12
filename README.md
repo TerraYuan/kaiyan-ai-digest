@@ -2,6 +2,14 @@
 
 单页按日期存档 AI 产业要闻；供公众号文末「阅读原文」跳转，标题可点开原文。
 
+## 线上地址（GitHub Pages）
+
+- 站点：https://terrayuan.github.io/kaiyan-ai-digest/
+- 指定日期：https://terrayuan.github.io/kaiyan-ai-digest/?d=2026-11-12
+- 仓库：https://github.com/TerraYuan/kaiyan-ai-digest
+
+公众号文末「原文链接」填当日地址即可。
+
 ## 本地预览 / 上传
 
 ```bash
