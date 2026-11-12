@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-12",
+  "title": "AI产业信息简报",
+  "disclaimer": "研究备忘。买卖点为实验输出，不是投资建议。简报为简体中文；未接实时行情。",
+  "updatedAt": "2026-11-12T06:56:54.948Z",
+  "perColumn": 8,
+  "sections": [
+    {
+      "id": "tech",
+      "label": "技术",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "headline": "全息图制程芯片技术新探索",
+          "soWhat": "属于极早期实验阶段的前瞻技术路线，短期无法撼动 ASML 的 EUV 垄断地位，重点关注能否实现商业化验证。",
+          "url": "https://stateofthefuture.substack.com/p/the-asml-killer"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "headline": "台积电批准10亿美元AI领域投资",
+          "soWhat": "代工龙头进一步向下游生态延展算力资产，巩固其先进封装与 AI 芯片产能绑定的生态壁垒。",
+          "url": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "headline": "开源项目 ruflo 提供多 Agent 群协作与自适应工作流套件",
+          "soWhat": "多 Agent 协同编排框架的开源探索，意在提升复杂任务下智能体组网效能，属于应用层长尾工具。",
+          "url": "https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/"
+        },
+        {
+          "n": 4,
+          "linkNo": 4,
+          "headline": "消息称爱丽丝·黄曾协助转移24万张受限英伟达芯片至中国",
+          "soWhat": "地缘合规与监管灰色地带细节曝光，关注后续美国出口管制政策是否会因此进一步收紧及对合规通道的排查。",
+          "url": "https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200"
+        },
+        {
+          "n": 5,
+          "linkNo": 5,
+          "headline": "台积电批准向 Anthropic 与 OpenAI 分别投资最高5亿美元",
+          "soWhat": "晶圆代工巨头向下游模型层做战略绑定的典型动作，旨在锁定未来先进制程及 CoWoS 封装产能的长期订单。",
+          "url": "https://pr.tsmc.com/english/news/3352"
+        },
+        {
+          "n": 6,
+          "linkNo": 6,
+          "headline": "开发者分享非 AI 完全体 ASIC 芯片设计过程",
+          "soWhat": "属于开源社区个人的 ASIC 设计工程经验总结，标题未给出可核验商业量产细节，无法改变工业级芯片竞争格局。",
+          "url": "https://essenceia.github.io/projects/expresso/"
+        },
+        {
+          "n": 7,
+          "linkNo": 7,
+          "headline": "AI 芯片初创企业融资陷入停滞",
+          "soWhat": "初创 ASIC 厂商融资难度激增，行业步入淘汰出清期，算力资源与生态优势向英伟达及云厂商自研芯片进一步集中。",
+          "url": "https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall"
+        },
+        {
+          "n": 8,
+          "linkNo": 8,
+          "headline": "英伟达更新 cuDNN Frontend 开源仓库",
+          "soWhat": "英伟达的例行开源软件更新，旨在优化底层算力开发体验，持续巩固 CUDA 生态粘性。",
+          "url": "https://github.com/NVIDIA/cudnn-frontend"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 9,
+          "headline": "开源 AI 网关 OmniRoute 推出统一模型路由工具",
+          "soWhat": "底层路由中间件降低了开发者跨模型调用门槛，在一定程度上削弱了单一大模型厂商的生态闭环绑定。",
+          "url": "https://github.com/cheaper-inference/OmniRoute"
+        },
+        {
+          "n": 2,
+          "linkNo": 10,
+          "headline": "消息称台积电正考虑介入 3D DRAM 芯片生产",
+          "soWhat": "代工巨头若跨界制造高密度 3D 存储，或打破现有存储巨头的竞争格局，加速存算一体与先进封装融合。",
+          "url": "https://www.techpowerup.com/354547/tsmc-is-reportedly-considering-3d-dram-production"
+        },
+        {
+          "n": 3,
+          "linkNo": 11,
+          "headline": "英伟达独立董事会发布声明澄清高管相关报道",
+          "soWhat": "董事会快速发声意在平息市场对公司治理结构的恐慌，稳定二级市场投资者信心。",
+          "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+        },
+        {
+          "n": 4,
+          "linkNo": 12,
+          "headline": "外媒称中国受制裁高校依然采购到英伟达 H200 芯片",
+          "soWhat": "表明高端 GPU 管制在长尾渠道仍存在穿透漏洞，关注后续美国商务部对中间商及分销通道的监管风险。",
+          "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/"
+        },
+        {
+          "n": 5,
+          "linkNo": 13,
+          "headline": "开发者推出基于 Rust 的 AI Agent 无头浏览器 moli",
+          "soWhat": "Agent 底层交互基础设施的补短板工具，旨在提升 Agent 在复杂网页交互中的抓取与自动化效率。",
+          "url": "https://github.com/lexmount/moli"
+        },
+        {
+          "n": 6,
+          "linkNo": 14,
+          "headline": "开发者发布代码 Agent 现代化 Web 原语升级指南",
+          "soWhat": "面向代码 Agent 生成质量的提质工具规范，属于开发者工具链细节打磨，替代效应有限。",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance"
+        },
+        {
+          "n": 7,
+          "linkNo": 15,
+          "headline": "nace.ai 开源适用于苹果芯片的 Qwen 与 Nemotron 推理引擎 Kapitsa",
+          "soWhat": "优化 Mac 终端的大模型本地推理性能，有利于降低个人开发者与本地端侧算力的调用成本。",
+          "url": "https://github.com/nace-ai/kapitsa"
+        },
+        {
+          "n": 8,
+          "linkNo": 16,
+          "headline": "市场传闻英伟达董事会或讨论高管变动风险及数据中心政策压力",
+          "soWhat": "高管变动传闻叠加数据中心电力与政策限制，短期加剧市场对算力扩产与公司治理的不确定性担忧。",
+          "url": "https://www.caixin.com/2026-11-12/102503808.html"
+        }
+      ]
+    },
+    {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 17,
+          "headline": "巴西 Serra Verde 按15年长协开启向美国出货重稀土",
+          "soWhat": "上游关键稀土供应链向美国市场倾斜，旨在降低对特定区域的依赖，保障硬件供应链安全。",
+          "url": "https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-announces-start-commercial-scale-shipments-and"
+        },
+        {
+          "n": 2,
+          "linkNo": 18,
+          "headline": "同名开源项目 Micron 系统语言发布维护更新",
+          "soWhat": "仅为同名开源软件项目更新，标题未给出可核验细节，与存储芯片厂商美光的资产开支或芯片供给无关。",
+          "url": "https://github.com/rochus-keller/Micron/blob/master/Readme.md"
+        },
+        {
+          "n": 3,
+          "linkNo": 19,
+          "headline": "英伟达高管绯闻传言引发股价波动及罢免舆论",
+          "soWhat": "治理风险属于非基本面短期冲击，重点观察后续董事会澄清与实际管理权流转情况。",
+          "url": "https://international.caixin.com/2026-11-12/102503788.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 20,
+          "headline": "研究揭示德州数据中心建设对当地劳动力市场的影响",
+          "soWhat": "数据中心基础设施建设的宏观经济学评估，对二级市场短期芯片与算力交易无直接传导效应。",
+          "url": "https://jrap.scholasticahq.com/article/172680-data-centers-and-local-labor-markets-evidence-from-the-texas-experience"
+        },
+        {
+          "n": 5,
+          "linkNo": 21,
+          "headline": "传 Anthropic 寻求高达1.4万亿美元估值启动 IPO",
+          "soWhat": "大模型头部厂商寻求二级市场巨额融资以充实训练算力资金池，进一步抬高顶尖模型竞争的资金壁垒。",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
+        },
+        {
+          "n": 6,
+          "linkNo": 22,
+          "headline": "开源同名项目 Micron 展示编程语言设计",
+          "soWhat": "属于个人开源编程语言项目分享，标题未给出可核验细节，与存储芯片厂商美光无产业关联。",
+          "url": "https://github.com/rochus-keller/Micron"
+        },
+        {
+          "n": 7,
+          "linkNo": 23,
+          "headline": "英伟达与韩国扩大主权 AI 基础设施与技能合作",
+          "soWhat": "“主权 AI”正在成为英伟达在云巨头之外的重要算力出货增量市场，持续夯实全球政府端需求。",
+          "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/"
+        },
+        {
+          "n": 8,
+          "linkNo": 24,
+          "headline": "法兴银行折价寻求出让 Stargate 数据中心债务",
+          "soWhat": "重资产数据中心项目的资金链拉紧，反映出数据中心建设端杠杆高企与融资分化的风险。",
+          "url": "https://www.9fin.com/insights/socgen-stargate-data-center-debt"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "label": "政策",
+      "items": []
+    }
+  ]
+}

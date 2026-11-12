@@ -1,0 +1,217 @@
+:root {
+  --bg: #f5f7fa;
+  --card: #ffffff;
+  --ink: #1a1a1a;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --accent: #2f4f73;
+  --link: #576b95;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.7 -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+.wrap {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 28px 18px 48px;
+}
+
+.hero {
+  margin-bottom: 24px;
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: var(--muted);
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 26px;
+  line-height: 1.3;
+}
+
+.sub {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.date-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.date-bar label {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.date-bar input,
+.date-bar select,
+.field input,
+.field textarea,
+.field select {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font: inherit;
+  background: var(--card);
+  color: var(--ink);
+}
+
+.date-bar select {
+  min-width: 140px;
+}
+
+.status {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+  min-height: 1.2em;
+}
+
+.section {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 16px 16px 8px;
+  margin-bottom: 14px;
+}
+
+.section-h {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 5px 12px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  border-radius: 2px;
+}
+
+.item {
+  margin: 0 0 14px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.item:last-child {
+  border-bottom: 0;
+}
+
+.item a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 650;
+}
+
+.item a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+.mark {
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.so {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.empty {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.foot {
+  margin-top: 28px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.foot a {
+  color: var(--link);
+}
+
+/* upload */
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 18px;
+  margin-bottom: 16px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.field label {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.field textarea {
+  min-height: 180px;
+  resize: vertical;
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 12px;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.btn {
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.btn.ghost {
+  background: transparent;
+  color: var(--accent);
+}
+
+.msg {
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.msg.ok {
+  color: #067647;
+}
+
+.msg.err {
+  color: #b42318;
+}

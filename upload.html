@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>上传要闻速递</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <p class="eyebrow">开眼AI观</p>
+      <h1>上传 / 更新速递</h1>
+      <p class="sub">按日期写入存档。可用管道自动发布，或在此粘贴 JSON / 选择本地文件。</p>
+      <p><a href="index.html">← 返回速递页</a></p>
+    </header>
+
+    <section class="card">
+      <div class="field">
+        <label for="up-date">日期</label>
+        <input type="date" id="up-date" />
+      </div>
+      <div class="field">
+        <label for="up-token">上传口令（与本地服务 DIGEST_TOKEN 一致；静态托管站不能写入）</label>
+        <input type="password" id="up-token" placeholder="本地开发时填写" autocomplete="off" />
+      </div>
+      <div class="field">
+        <label for="up-json">速递 JSON（完整文档，或 daily-brief.json）</label>
+        <textarea id="up-json" placeholder='粘贴 digest JSON，或雷达的 daily-brief.json'></textarea>
+      </div>
+      <div class="field">
+        <label for="up-file">或选择本地文件</label>
+        <input type="file" id="up-file" accept=".json,application/json" />
+      </div>
+      <div class="actions">
+        <button type="button" class="btn" id="btn-upload">保存到站点</button>
+        <button type="button" class="btn ghost" id="btn-preview">仅校验预览</button>
+        <button type="button" class="btn ghost" id="btn-download">下载 JSON</button>
+      </div>
+      <p id="up-msg" class="msg"></p>
+    </section>
+
+    <section class="card">
+      <p class="sub" style="margin:0">公网「阅读原文」链接格式：</p>
+      <p><code id="sample-url">https://你的域名/?d=2026-11-12</code></p>
+    </section>
+  </main>
+  <script src="upload.js"></script>
+</body>
+</html>

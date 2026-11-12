@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>开眼AI观 · 要闻速递</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <p class="eyebrow">开眼AI观</p>
+      <h1>要闻速递</h1>
+      <p class="sub">按日期查阅 AI 产业精选；公众号文末「阅读原文」可直达当日链接。</p>
+      <div class="date-bar">
+        <label for="date-pick">日期</label>
+        <input type="date" id="date-pick" />
+        <select id="date-list" aria-label="已存档日期"></select>
+      </div>
+      <p id="status" class="status"></p>
+    </header>
+    <div id="content"></div>
+    <footer class="foot">
+      <p>研究备忘，不是投资建议。历史速递按日期永久存档。</p>
+      <p><a href="upload.html">上传 / 更新某日速递</a></p>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
