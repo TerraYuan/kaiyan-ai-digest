@@ -53,7 +53,6 @@ function renderDigest(doc) {
   $("content").innerHTML = `
     <p class="status" style="margin:0 0 12px">${esc(doc.date || "")} · ${esc(doc.title || "AI产业信息简报")}</p>
     ${sections}
-    <p class="empty">${esc(doc.disclaimer || "研究备忘，不是投资建议。")}</p>
   `;
   document.title = `要闻速递｜${doc.date || ""}`;
 }
