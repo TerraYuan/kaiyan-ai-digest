@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-13",
+  "title": "AI产业信息简报",
+  "disclaimer": "研究备忘，不是投资建议。",
+  "updatedAt": "2026-11-13T08:33:08.381Z",
+  "perColumn": 10,
+  "sections": [
+    {
+      "id": "tech",
+      "label": "技术",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "headline": "台积电因第三方云服务商泄漏部分员工信息",
+          "soWhat": "属于代工环节的常规数据安全事件，未波及核心晶圆制造工艺与生产线，对中短期产能和业绩无实质影响。",
+          "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "headline": "社交平台消息称中国实验室基于英伟达 Blackwell 芯片训练新模型",
+          "soWhat": "属于个人社交媒体传言与取证分析，若违反出口管制属实可能加剧美国监管对高端算力芯片流向的审查力度。",
+          "url": "https://twitter.com/willdepue/status/2120992457630326841"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "headline": "开发者分享基于 TLA+ 形式化验证工具构建系统的工程实践",
+          "soWhat": "属于个人基础工程软件开发博客，标题未给出可核验商业量产或产业落地细节，不影响软硬件生态格局。",
+          "url": "https://read.thecoder.cafe/p/barista-2"
+        },
+        {
+          "n": 4,
+          "linkNo": 4,
+          "headline": "台积电确认供应商系统遭入侵导致员工数据泄露",
+          "soWhat": "事件局限于第三方数据服务提供商的安全漏洞，晶圆代工主业运营与核心技术未受实质影响。",
+          "url": "https://mlq.ai/news/tsmc-says-employee-personal-data-was-posted-online-from-a-cloud-providers-systems/"
+        },
+        {
+          "n": 5,
+          "linkNo": 5,
+          "headline": "OpenAI 支持美国政府对高端 AI 芯片实施出口管制措施",
+          "soWhat": "顶级模型厂商倒逼监管，意在通过政策合规提高竞争对手获取先进 GPU 算力的门槛，强化自身规模优势。",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures"
+        },
+        {
+          "n": 6,
+          "linkNo": 6,
+          "headline": "媒体关注英伟达合规调查与高管人事风波",
+          "soWhat": "监管合规与公司治理风险交织，可能影响英伟达在合规销售与海外市场策略上的执行稳定性。",
+          "url": "https://www.theatlantic.com/international/2026/11/nvidia-china-ai-regulation/689387/"
+        },
+        {
+          "n": 7,
+          "linkNo": 7,
+          "headline": "美国参议院委员会启动对英伟达芯片合规销售调查",
+          "soWhat": "政策风向进一步收紧，芯片设计环节的对华合规风险上升，可能冲击相关产品线出货预期。",
+          "url": "https://www.finance.senate.gov/newsroom/press-releases/wyden-and-neal-launch-investigation-of-trump-administration-scheme-to-take-cut-of-nvidia-ai-chip-sales-to-chinese-companies-trump-and-commerce-department-reportedly-ignored-warnings-about-former-ceo/"
+        },
+        {
+          "n": 8,
+          "linkNo": 8,
+          "headline": "市场消息称黄仁勋辞去英伟达 CEO 职务引发关注",
+          "soWhat": "核心创始人离职传闻引发治理震荡，若属实将短期冲击英伟达的战略执行力与产业链定价话语权。",
+          "url": "https://oplexa.com/blogs/jensen-huang-resigns-nvidia-ceo-november-2026/"
+        },
+        {
+          "n": 9,
+          "linkNo": 9,
+          "headline": "开源项目 cezar 推出多 Agent 并行编排与开发环境",
+          "soWhat": "属于面向开发者本地部署多 Agent 的工具栈，改善 Agent 编排体验，暂无行业供给格局改变。",
+          "url": "https://github.com/huggingface/transformers"
+        },
+        {
+          "n": 10,
+          "linkNo": 10,
+          "headline": "英伟达更新 Megatron-LM 大规模模型训练框架",
+          "soWhat": "属于超大模型分布式训练工具的例行维护，增强对自家硬件集群的支持，巩固算力软件生态。",
+          "url": "https://github.com/NVIDIA/Megatron-LM"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 11,
+          "headline": "彭博披露黄仁勋卸任英伟达 CEO 前的最后细节",
+          "soWhat": "巨头治理结构发生重大变动，管理层交接期间的市场不确定性可能引发供应链与资本市场短期的震荡。",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia"
+        },
+        {
+          "n": 2,
+          "linkNo": 12,
+          "headline": "OpenAI 完成 150 亿美元融资并拟于 2027 年公开上市",
+          "soWhat": "模型层巨额资本注入加固了其在训练算力与人才吸引上的资金壁垒，明确了资本市场退出的时间节点。",
+          "url": "https://www.caixin.com/2026-11-13/102504504.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 13,
+          "headline": "开源项目 LiteLLM 持续更新多模型 API 聚合网关框架",
+          "soWhat": "聚合网关工具旨在简化多模型切换，属于应用开发中间件例行维护，对底层大模型竞争格局影响有限。",
+          "url": "https://github.com/BerriAI/litellm"
+        },
+        {
+          "n": 4,
+          "linkNo": 14,
+          "headline": "报道称英伟达在管理层变动前曾面临提高 AI 支持承诺压力",
+          "soWhat": "反映出硬件巨头在向云厂商及 AI 客户提供融资或算力兜底时的资本拉扯，影响算力采购闭环的稳定性。",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit"
+        },
+        {
+          "n": 5,
+          "linkNo": 15,
+          "headline": "微软云端服务持续大面积故障瘫痪多项办公组件",
+          "soWhat": "云服务稳定性受拷问，短期影响协同办公与 AI 助手体验，长远看促使企业加大多云混合部署预算。",
+          "url": "https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/"
+        },
+        {
+          "n": 6,
+          "linkNo": 16,
+          "headline": "开源工具 t3code 提供跨设备控制 Claude Code 及 Codex 界面",
+          "soWhat": "属于开发者个人或社区建立的终端套壳工具，旨在优化编程体验，不构成模型层或算力层产业突破。",
+          "url": "https://github.com/pingdotgg/t3code"
+        },
+        {
+          "n": 7,
+          "linkNo": 17,
+          "headline": "消息称黄仁勋涉嫌与第二名英伟达员工存在不当关系",
+          "soWhat": "属于公司高级管理层职业道德危机，直接引发合规评估与治理动荡，短期拉高了公司估值与业务落地的不确定性。",
+          "url": "https://www.reuters.com./technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+        },
+        {
+          "n": 8,
+          "linkNo": 18,
+          "headline": "开源项目 PDFMathTranslate 实现基于 AI 的科研论文排版翻译",
+          "soWhat": "属于针对学术场景的端到端应用层开源工具，改善特定垂直场景体验，不改变大模型底层竞争格局。",
+          "url": "https://github.com/Seagey/couch-tv"
+        },
+        {
+          "n": 9,
+          "linkNo": 19,
+          "headline": "开源项目 PDFMathTranslate 实现基于 AI 的科研论文排版翻译",
+          "soWhat": "属于针对学术场景的端到端应用层开源工具，改善特定垂直场景体验，不改变大模型底层竞争格局。",
+          "url": "https://github.com/PDFMathTranslate/PDFMathTranslate"
+        },
+        {
+          "n": 10,
+          "linkNo": 20,
+          "headline": "媒体跟进报道英伟达前 CEO 内部关系争议背景",
+          "soWhat": "治理层负面风波持续发酵，可能加速董事会人事调整流程，对商业合作谈判产生短期干扰。",
+          "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 21,
+          "headline": "黄仁勋辞职引发连锁反应，政商多方关注英伟达接班人选",
+          "soWhat": "高管离职与出海中转合规调查交织，加剧了市场对供应链合规及巨头治理的忧虑。",
+          "url": "https://www.caixin.com/2026-11-13/102504278.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 22,
+          "headline": "维谛推出中压电力系统以加速 AI 数据中心并网",
+          "soWhat": "电力基础设施厂商解决数据中心并网瓶颈，有利于释放室内空间并加快高密度 AI 算力机房部署速度。",
+          "url": "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-introduces-medium-voltage-power-system-to-help--ai-data-centers-connect-to-the-grid-faster-and-free-indoor-space-for-compute/"
+        },
+        {
+          "n": 3,
+          "linkNo": 23,
+          "headline": "研究指出美国算力数据中心用电剧增引发农村电费上涨争议",
+          "soWhat": "数据中心能耗衍生出社会环境与政策监管阻力，可能倒逼电网政策调整并拉长数据中心建设审批周期。",
+          "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price"
+        },
+        {
+          "n": 4,
+          "linkNo": 24,
+          "headline": "OpenAI 完成 150 亿美元融资并拟于 2027 年公开上市",
+          "soWhat": "模型层巨额资本注入加固了其在训练算力与人才吸引上的资金壁垒，明确了资本市场退出的时间节点。",
+          "url": "https://database.caixin.com/2026-11-13/102504327.html"
+        },
+        {
+          "n": 5,
+          "linkNo": 25,
+          "headline": "微软游说新政府取消对中国数据中心技术的进口禁令",
+          "soWhat": "云基础设施面临供应链地缘政治审查，云厂商意在通过政策游说降低数据中心建设硬件成本与供应链风险。",
+          "url": "https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/"
+        },
+        {
+          "n": 6,
+          "linkNo": 26,
+          "headline": "消息称 SpaceX 与特斯拉正在推进创纪录的合并谈判",
+          "soWhat": "属于软硬件与硬科技领域的跨界整合，旨在打通端侧 AI、卫星通信与算力基础设施的内部资源生态。",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
+        },
+        {
+          "n": 7,
+          "linkNo": 27,
+          "headline": "德克萨斯州政策辩论引发对 AI 数据中心扩张放缓担忧",
+          "soWhat": "地方政策与电网承载力成为数据中心落地阻碍，算力基础设施建设向电力富裕地区的再平衡趋势加速。",
+          "url": "https://www.texastribune.org/2026/11/04/data-center-texas-pause-gina-hinojosa-governor-policies/"
+        },
+        {
+          "n": 8,
+          "linkNo": 28,
+          "headline": "AMD 发布 Venice-X 服务器处理器重新引入 3D V-Cache 技术",
+          "soWhat": "芯片设计厂商在数据中心 CPU 环节强化缓存与带宽性能，瞄准高性能计算（HPC）与 AI 预处理算力需求。",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth"
+        },
+        {
+          "n": 9,
+          "linkNo": 29,
+          "headline": "Anthropic 招股书更新，拟高估值上市检验资本市场 AI 热情",
+          "soWhat": "模型层顶尖玩家冲刺公开市场，二级市场定价将直接成为大模型产业整体估值的锚点。",
+          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/"
+        },
+        {
+          "n": 10,
+          "linkNo": 30,
+          "headline": "美国参议员呼吁立法暂停新设数据中心项目审批",
+          "soWhat": "政治层面对数据中心能耗与土地占用的反弹升温，可能拉长算力基础设施扩建周期并推高运维成本。",
+          "url": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "label": "政策",
+      "items": []
+    }
+  ]
+}
