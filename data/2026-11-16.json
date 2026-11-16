@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-16",
+  "title": "AI产业信息简报",
+  "disclaimer": "研究备忘，不是投资建议。",
+  "updatedAt": "2026-11-16T03:38:17.093Z",
+  "perColumn": 10,
+  "sections": [
+    {
+      "id": "tech",
+      "label": "技术",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "headline": "锐新科技宣布其一款激光液冷散热器产品已通过客户验证，切入数据中心与高功率设备散热供应链。",
+          "soWhat": "验证通过是商业化第一阶段，后续仍需核验量产订单排期与产线良率传导。",
+          "url": "https://finance.eastmoney.com/a/202611163931648692.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "headline": "行业发布视频回顾 ASML 前技术高管 Martin van den Brink 对光刻机路线及 EUV 商业化的贡献。",
+          "soWhat": "属于历史贡献回顾，暂无产线工艺变更或设备出货增量信息。",
+          "url": "https://www.youtube.com/watch?v=HEr90oVa758"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "headline": "Datawhale 开源“推理王国”项目，基于信息论与符号逻辑探讨大模型推理机制。",
+          "soWhat": "开源社区教学与思想实验项目，仅反映工程探索，不构成底层模型架构路径锁定。",
+          "url": "https://github.com/datawhalechina/reasoning-kingdom"
+        },
+        {
+          "n": 4,
+          "linkNo": 4,
+          "headline": "申菱环境拟竞拍佛山顺德土地使用权，投向液冷与温控设备产能建设。",
+          "soWhat": "温控厂商实体扩产动作，需观察资本开支投产后对公司毛利率及产能消化节奏的影响。",
+          "url": "https://finance.eastmoney.com/a/202611163931601475.html"
+        },
+        {
+          "n": 5,
+          "linkNo": 5,
+          "headline": "美国法院驳回三星、SK海力士及美光免诉申请，三家存储巨头继续面临 DRAM 反垄断诉讼。",
+          "soWhat": "反垄断诉讼周期拉长，短期不改变 HBM3e/DDR5 紧缺格局，但增加了中长期合规成本风险。",
+          "url": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed"
+        },
+        {
+          "n": 6,
+          "linkNo": 6,
+          "headline": "奥睿科推出 FM9800 固态硬盘，划分 pSLC AI Cache 区域以优化本地推理读写延迟。",
+          "soWhat": "消费级存储针对端侧 AI 做差异化定位，属于边缘硬件优化，非工业级算力瓶颈突破。",
+          "url": "https://www.ithome.com/1/027/552.htm"
+        },
+        {
+          "n": 7,
+          "linkNo": 7,
+          "headline": "英伟达更新 TensorRT-LLM 仓库，优化 Python API 并提升在 NVIDIA GPU 上的推理效率。",
+          "soWhat": "开源软件日常迭代，强化软硬一体生态壁垒，不构成芯片硬件路径变更。",
+          "url": "https://github.com/NVIDIA/TensorRT-LLM"
+        },
+        {
+          "n": 8,
+          "linkNo": 8,
+          "headline": "征和工业拟出资 4.6 亿元控股酷尔芯布局液冷，标的承诺三年净利润不低于 2.4 亿元。",
+          "soWhat": "传统工业零部件厂商通过并购并购入液冷资产，需关注后续整合协同效应及业绩承诺兑现。",
+          "url": "https://finance.eastmoney.com/a/202611163931595352.html"
+        },
+        {
+          "n": 9,
+          "linkNo": 9,
+          "headline": "OpenAI 更新终端代码助手 Codex 仓库，提供轻量化 Coding Agent 工具。",
+          "soWhat": "开发工具链工程补充，体现终端交互探索，暂不改变基础模型竞争力格局。",
+          "url": "https://github.com/openai/codex"
+        },
+        {
+          "n": 10,
+          "linkNo": 10,
+          "headline": "家电板块龙头企业市值创历史新高，二级市场关注智能化与海外渗透逻辑。",
+          "soWhat": "标题未给出可核验细节，属于盘面资金异动，缺乏产业链硬件突破事实。",
+          "url": "https://finance.eastmoney.com/a/202611163931614239.html"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 11,
+          "headline": "半导体设备板块出现回调，但半导体设备 ETF 单周逆势净流入 30.8 亿元。",
+          "soWhat": "资金逢低布局国产半导体设备长期替代逻辑，需关注后续各厂商实际订单履约。",
+          "url": "https://stock.eastmoney.com/a/202611163931634511.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 12,
+          "headline": "消息称台积电正评估进入 3D DRAM 制造领域，探索将先进封装延伸至内存层。",
+          "soWhat": "若台积电跨界 3D DRAM，将重塑晶圆代工与存储厂商的分工与合作格局。",
+          "url": "https://www.techpowerup.com/354547/tsmc-is-reportedly-considering-3d-dram-production"
+        },
+        {
+          "n": 3,
+          "linkNo": 13,
+          "headline": "中芯国际赵海军表示成熟制程产能利用率拉满，但上游原材料涨价挤压盈利空间。",
+          "soWhat": "成熟制程需求强劲但成本传导受阻，需观察代工厂向下游芯片设计商传导提价的能力。",
+          "url": "https://finance.eastmoney.com/a/202611133930958031.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 14,
+          "headline": "英伟达在首尔举办 AI Day，联合韩国当地产业领袖与开发者社区扩展生态。",
+          "soWhat": "区域生态拓展活动，旨在固化韩国本地 AI 生态绑定，不涉及硬件性能突破。",
+          "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/"
+        },
+        {
+          "n": 5,
+          "linkNo": 15,
+          "headline": "SK海力士计划五年内投资 10 亿美元扶持韩国本土上游半导体设备与材料供应商。",
+          "soWhat": "存储龙头加码本土供应链自主可控，旨在保障 HBM3e/HBM4 大规模扩产安全。",
+          "url": "https://finance.eastmoney.com/a/202611163931652438.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 16,
+          "headline": "开发者开源基于 Rust 的无头浏览器 moli，为 AI Agent 数据采集提供轻量化工具。",
+          "soWhat": "端侧 Agent 数据抓取工具优化，属于应用层辅助工程，不构成硬核技术壁垒。",
+          "url": "https://github.com/lexmount/moli"
+        },
+        {
+          "n": 7,
+          "linkNo": 17,
+          "headline": "市场讨论英伟达高管接班人计划及创始人交接可能性。",
+          "soWhat": "属于高管变动舆论讨论，未发生实际管理权变更，不影响公司当前业务运转。",
+          "url": "https://stock.eastmoney.com/a/202611163931653765.html"
+        },
+        {
+          "n": 8,
+          "linkNo": 18,
+          "headline": "零部件供应商神州股份 IPO 上会在即，半导体设备龙头中微公司同时为其第一大客户及关联股东。",
+          "soWhat": "半导体设备上游零组件厂商资本化，体现国内设备产业链纵向绑定与生态补短板。",
+          "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/"
+        },
+        {
+          "n": 9,
+          "linkNo": 19,
+          "headline": "EA 误移除游戏《FC 27 Lite》的 Denuvo 防篡改加密，但完整版保留该防护。",
+          "soWhat": "消费级软件版权防护微调，与 AI 及半导体产业链无关。",
+          "url": "https://www.ithome.com/1/027/480.htm"
+        },
+        {
+          "n": 10,
+          "linkNo": 20,
+          "headline": "Nightly Labs 开源 openbot，提供支持多 Agent 任务队列的桌面工作空间。",
+          "soWhat": "桌面级 Agent 调度工具，面向个人开发者工作流，不改变大模型底层能力。",
+          "url": "https://github.com/nightly-labs/openbot"
+        }
+      ]
+    },
+    {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 21,
+          "headline": "封测龙头通富微电近一周获二级市场融资资金净买入额居首。",
+          "soWhat": "资金加码先进封测，逻辑在于算力芯片异构集成需求拉动 CoWoS/Chiplet 订单增长。",
+          "url": "https://finance.eastmoney.com/a/202611153931467134.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 22,
+          "headline": "巴西 Serra Verde 开始根据 15 年长协向美国出货重稀土氧化物。",
+          "soWhat": "上游战略矿产供应链重构，旨在保障高性能电机与半导体材料的去单一来源依赖。",
+          "url": "https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-announces-start-commercial-scale-shipments-and"
+        },
+        {
+          "n": 3,
+          "linkNo": 23,
+          "headline": "台积电将 CoWoS 先进封装中的 oS 产能外包给精材，后者将在台积电厂房内建线运营。",
+          "soWhat": "台积电通过厂中厂模式解绑瓶颈环节，精材承接外包，有望提升整体 CoWoS 交付总量。",
+          "url": "https://www.ithome.com/1/027/513.htm"
+        },
+        {
+          "n": 4,
+          "linkNo": 24,
+          "headline": "行业研讨将算力数据中心部署至近地轨道的可行性，评估太阳能与散热优势。",
+          "soWhat": "极远期概念探讨，工程落地面临高昂发射成本与维护挑战，短期不具备可行性。",
+          "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space"
+        },
+        {
+          "n": 5,
+          "linkNo": 25,
+          "headline": "三星电子启动 144 万亿韩元投资计划，扩建半导体先进制程、存储基板及电池设施。",
+          "soWhat": "存储与代工巨头强力砸钱开支，加剧与台积电、SK海力士在 HBM3e/HBM4 及先进节点上的竞争。",
+          "url": "https://www.ithome.com/1/027/497.htm"
+        },
+        {
+          "n": 6,
+          "linkNo": 26,
+          "headline": "消息称 Anthropic 在 IPO 前轮融资中拒绝来自中国资金的注资。",
+          "soWhat": "地缘合规压力下，头部 AI 大模型初创公司的资本结构呈现地缘隔离趋势。",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
+        },
+        {
+          "n": 7,
+          "linkNo": 27,
+          "headline": "英伟达机器人学习工程师戴士钦宣布离职，引发外部对团队稳定的关注。",
+          "soWhat": "个体离职反映内部人员流动，但英伟达核心 GPU 硬件架构与软件生态防线依然稳固。",
+          "url": "https://stock.eastmoney.com/a/202611163931627987.html"
+        },
+        {
+          "n": 8,
+          "linkNo": 28,
+          "headline": "中国建设 800 兆瓦级 AI 数据中心园区，首期 120 兆瓦一年内投运。",
+          "soWhat": "超大规模算力基建落地加速，验证电力与集群交付能力正在成为算力竞争的关键比拼点。",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost"
+        },
+        {
+          "n": 9,
+          "linkNo": 29,
+          "headline": "AI4S 基础设施公司无界进化完成超亿元 Pre-A 轮融资，用于科学计算基础设施建设。",
+          "soWhat": "资本继续投入 AI 驱动的科学计算（AI4S），属于高门槛垂直领域应用深化。",
+          "url": "https://finance.eastmoney.com/a/202611163931652821.html"
+        },
+        {
+          "n": 10,
+          "linkNo": 30,
+          "headline": "英伟达机器人工程师戴士钦离职事件引发对研发团队变动的讨论。",
+          "soWhat": "属于常规技术人员变动，暂不影响英伟达机器人与算力主业的技术壁垒。",
+          "url": "https://www.ithome.com/1/027/541.htm"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "label": "政策",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 31,
+          "headline": "市场研判英伟达高管动态与出口管制对全球算力格局及基金配置的影响。",
+          "soWhat": "机构重新评估算力供给稳定性，资金可能向替代芯片或下游算力基础设施做分散配置。",
+          "url": "https://finance.eastmoney.com/a/202611163931532683.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 32,
+          "headline": "有关部门出台政策对前沿 AI 模型及相关出口实施规范管制。",
+          "soWhat": "合规门槛提高，前沿模型跨境合作受限，加速国内算力与算法体系的自我闭环。",
+          "url": "https://mercuriusdream.com/loving-controls/"
+        },
+        {
+          "n": 3,
+          "linkNo": 33,
+          "headline": "国家发改委明确支持新质生产力与高科技产业投资。",
+          "soWhat": "政策顶层设计为算力与半导体产业链提供长期信用背书与资本投入指引。",
+          "url": "https://finance.eastmoney.com/a/202611143931068441.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 34,
+          "headline": "市场关注黄仁勋动态与出口管制政策对芯片算力供给的影响。",
+          "soWhat": "政策横切算力供给，需密切观察具体出货限制对芯片厂商短期营收的传导。",
+          "url": "https://www.the-substrate.net/p/whats-going-on-with-jensen-huang"
+        },
+        {
+          "n": 5,
+          "linkNo": 35,
+          "headline": "美方推动立法限制中国企业远程使用境外算力，外交部表达严正立场。",
+          "soWhat": "算力限制从硬件实体延伸至云端调用，倒逼国内用户加速适配国产算力基础设施。",
+          "url": "https://finance.eastmoney.com/a/202611133930674147.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 36,
+          "headline": "商务部发布第 48 号公告，明确前沿 AI 技术与模型的出口管控规则。",
+          "soWhat": "规范前沿 AI 技术出海门槛，重塑跨境大模型研发与商业合作的合规红线。",
+          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
+        },
+        {
+          "n": 7,
+          "linkNo": 37,
+          "headline": "国家发改委透露“十五五”产业投资信号，聚焦算力与自主可控板块。",
+          "soWhat": "中长期政策窗口确立，继续推动国内半导体设备与算力基建的资本开支落地。",
+          "url": "https://finance.eastmoney.com/a/202611133930930313.html"
+        },
+        {
+          "n": 8,
+          "linkNo": 38,
+          "headline": "美亚光电推出基于华为昇腾等国产算力底座的首个口腔数智化信创解决方案。",
+          "soWhat": "垂直医疗设备完成国产芯片适配，信创打通从通用办公向专业医疗边缘端的应用。",
+          "url": "https://finance.eastmoney.com/a/202611113928442243.html"
+        },
+        {
+          "n": 9,
+          "linkNo": 39,
+          "headline": "美商务部高层拟面临变动，内部对出口管制执行力度与补贴落地存在分歧。",
+          "soWhat": "监管执行层变动可能带来短期的管制规则解释调整或政策执行不确定性。",
+          "url": "https://finance.eastmoney.com/a/202611133930979195.html"
+        },
+        {
+          "n": 10,
+          "linkNo": 40,
+          "headline": "央行强调适度宽松货币政策，美股 AI 产业链交易热潮有所回升。",
+          "soWhat": "宏观流动性配合产业催化，为算力开支与资本市场估值提供支撑。",
+          "url": "https://forex.eastmoney.com/a/202611123929076645.html"
+        }
+      ]
+    }
+  ]
+}
