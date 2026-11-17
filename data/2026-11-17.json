@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-17",
+  "title": "AI产业信息简报",
+  "disclaimer": "研究备忘，不是投资建议。",
+  "updatedAt": "2026-11-17T06:06:40.148Z",
+  "searchedUntil": "2026-11-17 14:06",
+  "perColumn": 10,
+  "sections": [
+    {
+      "id": "tech",
+      "label": "技术",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "headline": "三星电子正为 Meta 自研 AI 芯片定制开发专用的 HBM 存储器",
+          "soWhat": "CSP 巨头自研 ASIC 趋势强化，定制化 HBM 绑定削弱英伟达全家桶壁垒，打开存储厂商溢价空间。",
+          "url": "https://finance.eastmoney.com/a/202611173932708058.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "headline": "英伟达公布 MLPerf Training 测试结果，Vera Rubin 架构性能首次亮相",
+          "soWhat": "Vera Rubin 架构首秀刷新训练基准测试数据，进一步巩固其在云端 AI 芯片领域的统治地位。",
+          "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "headline": "论文：研究团队提出 WeightBench 基准，评估大模型在神经网络权重空间的直接编程能力",
+          "soWhat": "属于底层微调与模型编辑能力评估增量，能否转化为实际的编译与训练工具链仍需工程化验证。",
+          "url": "https://arxiv.org/abs/2611.18553v1"
+        },
+        {
+          "n": 4,
+          "linkNo": 4,
+          "headline": "论文：研究团队提出 RacingClock 算法，赋予视觉语言导航模型算力预算约束下的搜索能力",
+          "soWhat": "学术端算法突破，产业端重点观察能否进入机器人实机或端侧算力调度模块。",
+          "url": "https://arxiv.org/abs/2611.17442v2"
+        },
+        {
+          "n": 5,
+          "linkNo": 5,
+          "headline": "论文：研究人员推出 ArchSpace 工具，用于大模型架构设计的记录、复盘与检索",
+          "soWhat": "旨在规范大模型架构探索流程，需观察其能否成为主流研发团队的工程沉淀工具。",
+          "url": "https://arxiv.org/abs/2611.17332v2"
+        },
+        {
+          "n": 6,
+          "linkNo": 6,
+          "headline": "论文：研究人员将 iPINN 算法用于宽带 CARS 光谱相位检索与非线性光谱逆向建模",
+          "soWhat": "物理信息神经网络在光谱分析的交叉应用，能否落地相干等光学设备厂商的产品端仍需观察。",
+          "url": "https://arxiv.org/abs/2609.00883v2"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 7,
+          "headline": "英伟达推出 DGX Spark 开发者套件，主打桌面级超级计算与 AI 模型开发",
+          "soWhat": "降低大模型与高性能计算在本地测试的硬件门槛，旨在锁定边缘端及科研机构的生态黏性。",
+          "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
+        },
+        {
+          "n": 2,
+          "linkNo": 8,
+          "headline": "华为云开源昇腾原生具身世界模型，亿嘉和与拓斯达等企业加入生态合作",
+          "soWhat": "华为打响国产具身智能基础模型生态战，关注后续商业化适配及生态伙伴的落地产能。",
+          "url": "https://finance.eastmoney.com/a/202611163931799519.html"
+        }
+      ]
+    },
+    {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 9,
+          "headline": "消息称英伟达内部与开发者社区出现呼吁黄仁勋回归决策一线的声音",
+          "soWhat": "待核原文。高层治理与人事情绪波动显现，关注管理层实际分工与公司战略延续性。",
+          "url": "https://finance.eastmoney.com/a/202611173932800324.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 10,
+          "headline": "市场分析关注英伟达高度扁平化管理结构与二号人物缺失问题",
+          "soWhat": "组织架构高度集中于 CEO 个人，继任计划不明确渐成二级市场考量公司长期治理风险的变量。",
+          "url": "https://finance.eastmoney.com/a/202611173932797024.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 11,
+          "headline": "Microsoft 365 服务再次出现故障，受全球云服务宕机后续影响",
+          "soWhat": "云服务稳定性问题频发对云巨头 SLA 承托能力提出考验，留意客户转向多云备份的边际变化。",
+          "url": "https://www.ithome.com/1/028/233.htm"
+        },
+        {
+          "n": 4,
+          "linkNo": 12,
+          "headline": "日本 GDP 再现负增长，引发市场对日本央行 12 月加息预期的分歧",
+          "soWhat": "宏观流动性变量，影响全球套利交易流向及半导体材料、设备日企的资金估值环境。",
+          "url": "https://forex.eastmoney.com/a/202611173932799187.html"
+        },
+        {
+          "n": 5,
+          "linkNo": 13,
+          "headline": "中微公司披露在手订单充裕，下游晶圆大客户扩产需求持续旺盛",
+          "soWhat": "验证半导体刻蚀设备国产替代逻辑，下游晶圆厂产能建设为公司中短期营收提供业绩支撑。",
+          "url": "https://stock.eastmoney.com/a/202611173932792167.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 14,
+          "headline": "A股半导体设备与材料板块集体拉升",
+          "soWhat": "晶圆厂高产能利用率传导至上游，关注扩产采购节奏对设备及材料厂商订单的实际提振。",
+          "url": "https://finance.eastmoney.com/a/202611173932784774.html"
+        },
+        {
+          "n": 7,
+          "linkNo": 15,
+          "headline": "华为麒麟 9050 系列芯片配备新一代 DPU，支持全彩 AI-HDR2020 显示",
+          "soWhat": "端侧硬件架构持续升级，在自研移动芯片的图像与显示处理层进一步巩固自主可控能力。",
+          "url": "https://www.ithome.com/1/028/159.htm"
+        },
+        {
+          "n": 8,
+          "linkNo": 16,
+          "headline": "中芯国际产能利用率维持高位，持续拉动上游国产设备采购订单",
+          "soWhat": "晶圆代工端的高负荷运转验证本土芯片强劲需求，形成“代工扩产-国产设备采购”的正向循环。",
+          "url": "https://stock.eastmoney.com/a/202611173932796778.html"
+        },
+        {
+          "n": 9,
+          "linkNo": 17,
+          "headline": "SpaceX 与三星电子达成合作，三星得州工厂将制造 Starlink 芯片",
+          "soWhat": "三星美国本土晶圆厂取得客户突破，同时巩固其在卫星通信与端侧芯片制造中的市场份额。",
+          "url": "https://finance.eastmoney.com/a/202611173932741667.html"
+        },
+        {
+          "n": 10,
+          "linkNo": 18,
+          "headline": "算力需求紧缺背景下，通信行业 ETF 市盈率历史分位降至极低区间",
+          "soWhat": "待核原文。板块基本面与二级市场估值出现错位，关注资本开支兑现对估值修复的催化。",
+          "url": "https://stock.eastmoney.com/a/202611173932709949.html"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "label": "政策",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 19,
+          "headline": "特朗普回应不会解职商务部长，称其工作表现优秀",
+          "soWhat": "待核原文。消除了关键出口管制执行部门的人事变动预期，美国半导体与 AI 出口限制基调将维持延续。",
+          "url": "https://finance.eastmoney.com/a/202611173932760379.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 20,
+          "headline": "商务部等九部门发文推动 AI 与云计算在再生资源回收领域的数字化应用",
+          "soWhat": "传统产业数字化政策再落一子，为垂直行业 IT 服务商及大模型边缘应用拓展落地场景。",
+          "url": "https://finance.eastmoney.com/a/202611173932752618.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 21,
+          "headline": "中国头部大模型厂商集体限制模型网络攻击能力，强化出口管制合规",
+          "soWhat": "大模型安全防护栏（Guardrails）要求提高，防范高风险能力滥用与流出，出海合规门槛抬升。",
+          "url": "https://www.ithome.com/1/028/133.htm"
+        },
+        {
+          "n": 4,
+          "linkNo": 22,
+          "headline": "美国进一步限制 GPU 出口至东南亚及巴西，阻断中企海外算力转租路线",
+          "soWhat": "海外算力中转链路遭精准打击，倒逼国内算力需求进一步向国产芯片及本土算力集群转移。",
+          "url": "https://www.ithome.com/1/028/116.htm"
+        },
+        {
+          "n": 5,
+          "linkNo": 23,
+          "headline": "武汉光谷推出“长钱、产业、保险”协同机制，探索硬科技长期资本引导模式",
+          "soWhat": "地方政府尝试通过风险分担机制引导资本下场，缓释半导体及硬科技投资的长周期风险。",
+          "url": "https://insurance.eastmoney.com/a/202611163932119822.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 24,
+          "headline": "工信部批准《具身智能数据生成系统技术要求》等 274 项人工智能行业标准",
+          "soWhat": "具身智能数据生成与基础设施标准化步入正轨，有利于降低行业通用数据采集与训练的摩擦成本。",
+          "url": "https://finance.eastmoney.com/a/202611173932536176.html"
+        },
+        {
+          "n": 7,
+          "linkNo": 25,
+          "headline": "工信部发布近 800 项行业标准，加速 AI 在钢铁环保监测等重工业场景落地",
+          "soWhat": "推进“AI+工业”标准化落地，赋能传统重工业能耗监管，催化工业软件及场景化解决方案需求。",
+          "url": "https://finance.eastmoney.com/a/202611163931809341.html"
+        },
+        {
+          "n": 8,
+          "linkNo": 26,
+          "headline": "发改委部署高质量发展举措，持续加大新质生产力政策扶持力度",
+          "soWhat": "宏观政策集约释放信号，硬科技与高价值制造环节将继续享有税收及产业基金等政策倾斜。",
+          "url": "https://finance.eastmoney.com/a/202611143931068441.html"
+        },
+        {
+          "n": 9,
+          "linkNo": 27,
+          "headline": "美联储候任官员表态 AI 将同时带来生产率提升与宏观经济风险",
+          "soWhat": "美联储关注 AI 对全要素生产率与劳动力市场的改造，可能影响对中长期中性利率的评估。",
+          "url": "https://international.caixin.com/2026-11-17/102505685.html"
+        }
+      ]
+    }
+  ]
+}

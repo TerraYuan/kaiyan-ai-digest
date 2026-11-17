@@ -52,6 +52,13 @@ function renderDigest(doc) {
 
   $("content").innerHTML = sections;
   document.title = `要闻速递｜${doc.date || ""}`;
+  const until = doc.searchedUntil || "";
+  const sub = $("hero-sub");
+  if (sub) {
+    sub.textContent = until
+      ? `要闻检索截至 ${until} · 按日期查阅 AI 产业精选；公众号文末「阅读原文」可直达当日链接。`
+      : "按日期查阅 AI 产业精选；公众号文末「阅读原文」可直达当日链接。";
+  }
 }
 
 function fillDateList(dates, current) {

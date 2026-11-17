@@ -36,15 +36,13 @@ node pipeline/publish-digest.js pipeline/last-brief.json
 
 ## 公网部署（订阅号「阅读原文」必需）
 
-把整个 `digest-site` 目录发布到任意静态托管，例如：
-
-1. GitHub Pages / Cloudflare Pages / Netlify
-2. 对象存储静态网站
+**默认流程**：本地 `publish-digest` 写入 `data/` 后，在本目录 `git commit` + `git push origin main`，由 GitHub Pages 对外提供。  
+本地 `E:\AI公号\*_阅读原文.html` 只作备份，**不能**代替公网链接。
 
 阅读原文填：
 
 ```text
-https://你的域名/?d=2026-11-12
+https://terrayuan.github.io/kaiyan-ai-digest/?d=2026-11-17
 ```
 
 不写日期则打开最新一天。
