@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-18",
+  "title": "AI产业信息简报",
+  "disclaimer": "研究备忘，不是投资建议。",
+  "updatedAt": "2026-11-18T04:10:44.673Z",
+  "searchedUntil": "2026-11-18 12:10",
+  "perColumn": 10,
+  "sections": [
+    {
+      "id": "tech",
+      "label": "技术",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "headline": "论文：Spool——面向混合视觉大语言模型的低延迟流式推理",
+          "soWhat": "学术增量，必须落到产能、产品或成本，否则只留技术栏备查。",
+          "url": "https://arxiv.org/abs/2611.23228v1"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "headline": "论文：大语言模型智能体是否仍需被明确告知如何自我改进？",
+          "soWhat": "学术增量，必须落到产能、产品或成本，否则只留技术栏备查。",
+          "url": "https://arxiv.org/abs/2611.23219v1"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "headline": "论文：研究团队推出WeightBench基准测试，用于评估大模型直接在神经网络权重空间进行代码化编辑的能力",
+          "soWhat": "属于底层微调与模型编辑能力评估增量，转化为实际编译与训练工具链仍需工程化验证。",
+          "url": "https://arxiv.org/abs/2611.18553v1"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 4,
+          "headline": "微软发布面向编程与网络安全的 AI 模型",
+          "soWhat": "微软 侧的产品化动作，关注能否收费、替代谁。",
+          "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
+        },
+        {
+          "n": 2,
+          "linkNo": 5,
+          "headline": "华为云发布并开源昇腾原生具身世界模型 亿嘉和、拓斯达等为生态伙伴",
+          "soWhat": "华为打响国产具身智能基础模型生态战，关注后续下游硬件厂商的适配进度与商业化落地产能。",
+          "url": "https://finance.eastmoney.com/a/202611163931799519.html"
+        }
+      ]
+    },
+    {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 6,
+          "headline": "英伟达临时CEO：英伟达的非投资级客户必须先找到客户使用其购买的英伟达芯片",
+          "soWhat": "人的信号往往先于财报：看岗位类型是算法还是封装/电力/集群。",
+          "url": "https://finance.eastmoney.com/a/202611183933858843.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 7,
+          "headline": "Radxa 分享瑞芯微文档：RK3668 通用处理器预计 2027Q1 提供工程样品",
+          "soWhat": "先看事实落在哪一层，再判断值不值得跟。",
+          "url": "https://www.ithome.com/1/028/693.htm"
+        },
+        {
+          "n": 3,
+          "linkNo": 8,
+          "headline": "腾讯申请注册元宝搜索商标",
+          "soWhat": "先看事实落在哪一层，再判断值不值得跟。",
+          "url": "https://finance.eastmoney.com/a/202611183933857459.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 9,
+          "headline": "微软推自研模型，正面挑战OpenAI与Anthropic",
+          "soWhat": "人的信号往往先于财报：看岗位类型是算法还是封装/电力/集群。",
+          "url": "https://finance.eastmoney.com/a/202611183933855990.html"
+        },
+        {
+          "n": 5,
+          "linkNo": 10,
+          "headline": "业内惊呼“活久见” ！苹果和三星电子或达成长期DRAM供应协议",
+          "soWhat": "三星电子、苹果 相关动态：先看落在产业链哪一层，再判断值不值得跟。",
+          "url": "https://finance.eastmoney.com/a/202611183933851859.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 11,
+          "headline": "【调研快报】维宏股份接待健顺投资等8家机构调研",
+          "soWhat": "先看事实落在哪一层，再判断值不值得跟。",
+          "url": "https://stock.eastmoney.com/a/202611183933851653.html"
+        },
+        {
+          "n": 7,
+          "linkNo": 12,
+          "headline": "诺兰电影《奥德赛》登陆 Apple TV、Prime Video 等点播平台，支持数字租赁和购买",
+          "soWhat": "亚马逊、苹果 侧的产品化动作，关注能否收费、替代谁。",
+          "url": "https://www.ithome.com/1/028/672.htm"
+        },
+        {
+          "n": 8,
+          "linkNo": 13,
+          "headline": "黄仁勋离职后首份财报出炉，董事会明确拒绝其回归",
+          "soWhat": "人的信号往往先于财报：看岗位类型是算法还是封装/电力/集群。",
+          "url": "https://finance.eastmoney.com/a/202611183933839625.html"
+        },
+        {
+          "n": 9,
+          "linkNo": 14,
+          "headline": "9.2 分高危 Java 漏洞披露：黑客发串“乱码”可远程接管服务器，甲骨文紧急修复",
+          "soWhat": "AMD 相关动态：先看落在产业链哪一层，再判断值不值得跟。",
+          "url": "https://www.ithome.com/1/028/665.htm"
+        },
+        {
+          "n": 10,
+          "linkNo": 15,
+          "headline": "AMD 完成对 Taalas 收购，计划将后者芯片整合进加速器路线图",
+          "soWhat": "AMD 相关动态：先看落在产业链哪一层，再判断值不值得跟。",
+          "url": "https://www.ithome.com/1/028/640.htm"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "label": "政策",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 16,
+          "headline": "美国收紧海外先进算力访问 如何影响中国AI公司？",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611183933790424.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 17,
+          "headline": "美国发布限制远程获取先进半导体相关措施，中国商务部：若美方一意孤行，中方将采取反制措施",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173933239276.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 18,
+          "headline": "外交部：美方经济胁迫和“长臂管辖”损害中国企业正当权益",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173933177643.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 19,
+          "headline": "外交部：美国横加干涉中国同其他国家开展正常贸易与科技合作，是典型的经济胁迫",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173932843429.html"
+        },
+        {
+          "n": 5,
+          "linkNo": 20,
+          "headline": "外交部回应美国政府调查涉英伟达芯片一事",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173932835930.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 21,
+          "headline": "外交部回应美升级芯片出口管制：典型的经济胁迫和“长臂管辖” 中方将采取必要措施",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173932835042.html"
+        },
+        {
+          "n": 7,
+          "linkNo": 22,
+          "headline": "外交部：美方滥用出口管制措施 中方将坚决维护自身正当权益",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173932839937.html"
+        },
+        {
+          "n": 8,
+          "linkNo": 23,
+          "headline": "是否会将美商务部长解职？特朗普回应：“不，他干得非常好”",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173932760379.html"
+        }
+      ]
+    }
+  ]
+}
