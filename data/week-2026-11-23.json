@@ -11,10 +11,10 @@
     "2026-11-19",
     "2026-11-23"
   ],
-  "updatedAt": "2026-11-23T04:31:58.945Z",
+  "updatedAt": "2026-11-23T04:39:55.670Z",
   "originalUrl": "https://terrayuan.github.io/kaiyan-ai-digest/?w=2026-11-23",
   "perColumnMax": 10,
-  "itemCount": 12,
+  "itemCount": 13,
   "sections": [
     {
       "id": "tech",
@@ -70,8 +70,8 @@
           "n": 4,
           "linkNo": 6,
           "date": "2026-11-23",
-          "headline": "紫光展锐联合比派基于UIS7885芯片发布5G开源单板计算机BPI-M2C",
-          "soWhat": "边缘计算与开源硬件生态扩展，关注芯片在工业及物联网端侧的实际出货量。",
+          "headline": "紫光展锐联合比派科技发布5G开源单板计算机BPI-M2C，基于UIS7885芯片平台。",
+          "soWhat": "针对边缘计算与物联网开发者场景拓宽5G芯片应用，关注其在工业与边缘AI设备上的替代节奏。",
           "url": "https://www.ithome.com/1/030/800.htm"
         }
       ]
@@ -121,14 +121,22 @@
         {
           "n": 3,
           "linkNo": 11,
+          "date": "2026-11-23",
+          "headline": "中信建投发布研报指出全球封测景气度回升，美国BIS新规将加速国产先进封装扩产。",
+          "soWhat": "出口管制压力倒逼国内半导体后道封装能力自主化，具备2.5D/3D先进封装能力的封测厂商迎扩产机遇。",
+          "url": "https://finance.eastmoney.com/a/202611233937036651.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 12,
           "date": "2026-11-18",
           "headline": "美国发布限制远程获取先进半导体相关措施，中国商务部：若美方一意孤行，中方将采取反制措施",
           "soWhat": "",
           "url": "https://finance.eastmoney.com/a/202611173933239276.html"
         },
         {
-          "n": 4,
-          "linkNo": 12,
+          "n": 5,
+          "linkNo": 13,
           "date": "2026-11-17",
           "headline": "工信部发布近 800 项行业标准，加速 AI 在钢铁环保监测等重工业场景落地",
           "soWhat": "推进“AI+工业”标准化落地，赋能传统重工业能耗监管，催化工业软件及场景化解决方案需求。",
