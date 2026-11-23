@@ -45,7 +45,7 @@ function updateIndex(date) {
   const set = new Set(index.dates || []);
   set.add(date);
   const dates = [...set].sort((a, b) => b.localeCompare(a));
-  const out = { latest: dates[0] || date, dates };
+  const out = { ...index, latest: dates[0] || date, dates };
   fs.writeFileSync(indexPath, JSON.stringify(out, null, 2), "utf8");
   return out;
 }

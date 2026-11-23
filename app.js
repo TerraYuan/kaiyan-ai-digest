@@ -143,6 +143,7 @@ async function showWeek(week, weeks) {
   status.hidden = true;
   status.textContent = "";
   fillWeekList(weeks, week);
+  if ($("date-pick")) $("date-pick").value = "";
   setQsWeek(week);
   try {
     const doc = await loadWeek(week);
@@ -163,6 +164,7 @@ async function boot() {
   const weeks = index.weeks || [];
   const weekWanted = qsWeek();
   fillWeekList(weeks, weekWanted);
+  fillDateList(dates, "");
   $("week-list").addEventListener("change", () => {
     const w = $("week-list").value;
     if (w) showWeek(w, weeks);
