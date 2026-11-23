@@ -76,8 +76,10 @@ function renderDigest(doc) {
   const titleEl = $("hero-title");
   const sub = $("hero-sub");
   if (doc.kind === "week") {
-    document.title = `每周要闻｜${doc.startDate || ""}–${doc.endDate || ""}`;
-    if (titleEl) titleEl.textContent = "每周要闻";
+    document.title = `AI产业要闻周报｜${doc.startDate || ""}–${doc.endDate || ""}`;
+    if (titleEl) titleEl.textContent = "AI产业要闻周报";
+    const eyebrow = $("eyebrow");
+    if (eyebrow) eyebrow.hidden = true;
     if (sub) {
       sub.textContent = `${doc.startDate}–${doc.endDate} · 精选 ${doc.itemCount || 0} 条 · 存档 ${doc.archiveDays || 0} 天。标题可打开原文。`;
     }
@@ -85,6 +87,8 @@ function renderDigest(doc) {
   }
   document.title = `要闻速递｜${doc.date || ""}`;
   if (titleEl) titleEl.textContent = "要闻速递";
+  const eyebrowDaily = $("eyebrow");
+  if (eyebrowDaily) eyebrowDaily.hidden = false;
   const until = doc.searchedUntil || "";
   if (sub) {
     sub.textContent = until
