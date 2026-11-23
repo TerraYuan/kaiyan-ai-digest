@@ -2,19 +2,35 @@
   "date": "2026-11-23",
   "title": "AI产业信息简报",
   "disclaimer": "研究备忘，不是投资建议。",
-  "updatedAt": "2026-11-23T02:29:32.453Z",
-  "searchedUntil": "2026-11-23 10:29",
+  "updatedAt": "2026-11-23T04:25:37.019Z",
+  "searchedUntil": "2026-11-23 12:25",
   "perColumn": 8,
   "sections": [
     {
       "id": "tech",
       "label": "技术",
-      "items": []
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "headline": "论文：Meta研究人员提出用于扩散模型训练的NoiseRater噪声评估方法",
+          "soWhat": "属于学术层面增量，需观察相关训练优化技术能否实际整合至Meta的生成式AI模型产线中。",
+          "url": "https://arxiv.org/abs/2605.08144v3"
+        }
+      ]
     },
     {
       "id": "product",
       "label": "产品",
-      "items": []
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 2,
+          "headline": "紫光展锐联合比派基于UIS7885芯片发布5G开源单板计算机BPI-M2C",
+          "soWhat": "边缘计算与开源硬件生态扩展，关注芯片在工业及物联网端侧的实际出货量。",
+          "url": "https://www.ithome.com/1/030/800.htm"
+        }
+      ]
     },
     {
       "id": "company-dynamics",
@@ -22,66 +38,52 @@
       "items": [
         {
           "n": 1,
-          "linkNo": 1,
-          "headline": "英特尔为18A芯片制程与先进封装业务签下首家外部客户微软",
-          "soWhat": "验证英特尔IFS代工业务从自研走向外部商业化流片的落地能力，若18A产能顺利爬坡，将对台积电先进制程独占格局构成潜在分流压力。",
-          "url": "https://finance.eastmoney.com/a/202611223936964886.html"
+          "linkNo": 3,
+          "headline": "A股市场盘中出现异动拉升",
+          "soWhat": "待核原文。",
+          "url": "https://finance.eastmoney.com/a/202611233937143879.html"
         },
         {
           "n": 2,
-          "linkNo": 2,
-          "headline": "马斯克警告AI行业明年或面临资金短缺，行业分析指上游PCB供需持续紧张",
-          "soWhat": "资本开支承压与硬件供应链瓶颈双重交织，软硬件扩产节奏错配可能导致模型层融资估值面临回调风险。",
-          "url": "https://finance.eastmoney.com/a/202611233937101892.html"
+          "linkNo": 4,
+          "headline": "马斯克表示特斯拉AI4芯片成本翻番且下一代AI5芯片不会应用于特斯拉车辆",
+          "soWhat": "涉及车端智驾芯片演进路径与成本结构变动，需持续跟踪AI5芯片的去向及其对车载算力供给的影响。",
+          "url": "https://finance.eastmoney.com/a/202611233937142140.html"
         },
         {
           "n": 3,
-          "linkNo": 3,
-          "headline": "鸿蒙智行发布新款问界M7，升级面向L3级智能驾驶的全域冗余架构",
-          "soWhat": "硬件全域冗余是智驾从L2+向高阶L3责任认定跨越的核心物理前提，重点观察其法规准入进度及智驾方案的商业化溢价能力。",
-          "url": "https://www.ithome.com/1/030/775.htm"
+          "linkNo": 5,
+          "headline": "长城汽车发布H6L HEV混动版官图并确定于11月27日广州车展上市",
+          "soWhat": "传统车企混动车型更新，侧重于终端新能源渗透，对AI产业链传导效应有限。",
+          "url": "https://www.ithome.com/1/030/805.htm"
         },
         {
           "n": 4,
-          "linkNo": 4,
-          "headline": "Singularity Computers发布配备四组560冷排的外置液冷系统，解热能力达5000W",
-          "soWhat": "针对极高功耗场景的散热方案迭代，反映出AI与高算力硬件对液冷散热及数据中心基础设施改造的刚性需求提升。",
-          "url": "https://www.ithome.com/1/030/773.htm"
+          "linkNo": 6,
+          "headline": "美国更换国家网络总监以应对关键机构安全漏洞与网络攻击事件",
+          "soWhat": "网络安全事件升温提升云端与政府算力基础设施的安全防护需求。",
+          "url": "https://www.ithome.com/1/030/801.htm"
         },
         {
           "n": 5,
-          "linkNo": 5,
-          "headline": "民生增强收益债券A重仓科技与芯片标的，持仓市值随算力板块大幅波动",
-          "soWhat": "待核原文。",
-          "url": "https://fund.eastmoney.com/a/202611233937090889.html"
+          "linkNo": 7,
+          "headline": "韩国政府因AI与半导体行业风险升温拟随时启动证券市场稳定基金",
+          "soWhat": "凸显全球半导体与AI板块估值波动加剧，宏观政策入场托底旨在防范链条流动性风险。",
+          "url": "https://finance.eastmoney.com/a/202611233937142471.html"
         },
         {
           "n": 6,
-          "linkNo": 6,
-          "headline": "A股沪指震荡跌破3500点，半导体代工及算力板块出现回调",
-          "soWhat": "待核原文。",
-          "url": "https://finance.eastmoney.com/a/202611233937086690.html"
+          "linkNo": 8,
+          "headline": "我国近期新增133款生成式人工智能服务完成合规备案",
+          "soWhat": "监管备案放行提速，有助于国产生成式AI应用加快商业化变现与合规上线。",
+          "url": "https://stock.eastmoney.com/a/202611233937137841.html"
         },
         {
           "n": 7,
-          "linkNo": 7,
-          "headline": "摩尔线程预告下一代庐山GPU，拟推高规格显存方案提升图形与AI性能",
-          "soWhat": "显存容量是国产GPU切入本地大模型微调与大算力推理的核心突破口，后续重点看实际大货交付能力与软件生态适配度。",
-          "url": "https://www.ithome.com/1/030/757.htm"
-        },
-        {
-          "n": 8,
-          "linkNo": 8,
-          "headline": "多家公募基金集中上报半导体与算力主题ETF新品",
-          "soWhat": "待核原文。",
-          "url": "https://finance.eastmoney.com/a/202611233937064770.html"
-        },
-        {
-          "n": 9,
           "linkNo": 9,
-          "headline": "一加发布一加16动画联名礼盒，采用16GB+512GB配置并开启限量预售",
-          "soWhat": "待核原文。",
-          "url": "https://www.ithome.com/1/030/753.htm"
+          "headline": "蚂蚁集团透露AI健康应用阿福用户数达1.5亿并呼吁推进医保商保衔接",
+          "soWhat": "垂直领域AI应用用户体量初具规模，推动医保商保接入是打通C端AI医疗变现闭环的关键。",
+          "url": "https://www.ithome.com/1/030/799.htm"
         }
       ]
     },
@@ -92,43 +94,36 @@
         {
           "n": 1,
           "linkNo": 10,
-          "headline": "国务院批复相关发展方案，支持人工智能与数字技术融入养老及育儿服务场景",
-          "soWhat": "待核原文。",
-          "url": "https://finance.eastmoney.com/a/202611233937102432.html"
+          "headline": "工信部通报YY及快看漫画等23款存在信息窗口乱跳转违规行为的App及SDK",
+          "soWhat": "互联网应用合规监管持续深化，防范移动端违规流量变现行为。",
+          "url": "https://www.ithome.com/1/030/796.htm"
         },
         {
           "n": 2,
           "linkNo": 11,
-          "headline": "四部门联合发文，鼓励开发适配养老应用场景的人工智能体及智能硬件产品",
-          "soWhat": "政策从应用端拓宽AI智能体与机器人落地边界，拉动具备交互能力的端侧芯片及边缘算力需求。",
-          "url": "https://finance.eastmoney.com/a/202611233937099025.html"
+          "headline": "国务院批复同意发布养老与托育领域相关政策方案",
+          "soWhat": "待核原文。",
+          "url": "https://finance.eastmoney.com/a/202611233937102432.html"
         },
         {
           "n": 3,
           "linkNo": 12,
-          "headline": "机构研究指出出口管制新规倒逼国内封测厂加速扩产，先进封装产业景气度持续上行",
-          "soWhat": "先进封装（CoWoS等）作为弥补先进制程受限的关键手段，产能建设加速将直接拉动国内封装设备与材料厂商的订单增长。",
+          "headline": "中信建投研报指出受出口管制新规影响国产先进封装产能扩产进程有望加速",
+          "soWhat": "管制压力倒逼供应链本土化，先进封装（如CoWoS替代）成为突破算力瓶颈的核心环节。",
           "url": "https://finance.eastmoney.com/a/202611233937036651.html"
         },
         {
           "n": 4,
           "linkNo": 13,
-          "headline": "工信部启动新一批5G+工业互联网融合应用城市试点，推进边缘计算与智能制造落地",
-          "soWhat": "试点落地将直接拉动工业边缘算力节点与私有云部署需求，带动中游网络设备与工业软件厂商业绩。",
+          "headline": "工信部启动新一批“5G+工业互联网”融合应用城市试点",
+          "soWhat": "工业端网络与算力基础设施试点推进，拉动边缘计算与工业AI应用部署。",
           "url": "https://finance.eastmoney.com/a/202611223936939248.html"
         },
         {
           "n": 5,
           "linkNo": 14,
-          "headline": "美国拟收紧中国企业对海外云端先进算力的远程访问权限",
-          "soWhat": "制裁范围从硬件实体出口进一步延伸至云端算力租用服务，将逼迫国内AI大模型公司全面转向国产全栈算力栈的适配与采购。",
-          "url": "https://finance.eastmoney.com/a/202611183933790424.html"
-        },
-        {
-          "n": 6,
-          "linkNo": 15,
-          "headline": "外交部就美国政府对涉英伟达芯片展开调查及相关芯片出口限制措施作出回应",
-          "soWhat": "地缘政治博弈持续影响全球算力芯片供应链，需关注限制措施是否引发硬件断供风险及对国产算力替代加速的倒逼作用。",
+          "headline": "中国外交部就美国政府对英伟达芯片展开相关调查做出回应",
+          "soWhat": "地缘政治对芯片供应链干扰持续，需关注对高端AI芯片出货及合规销售的影响。",
           "url": "https://finance.eastmoney.com/a/202611173932835930.html"
         }
       ]
