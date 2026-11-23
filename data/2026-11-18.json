@@ -30,28 +30,27 @@
           "headline": "论文：研究团队推出WeightBench基准测试，用于评估大模型直接在神经网络权重空间进行代码化编辑的能力",
           "soWhat": "属于底层微调与模型编辑能力评估增量，转化为实际编译与训练工具链仍需工程化验证。",
           "url": "https://arxiv.org/abs/2611.18553v1"
-        }
-      ]
-    },
-    {
-      "id": "product",
-      "label": "产品",
-      "items": [
+        },
         {
-          "n": 1,
+          "n": 4,
           "linkNo": 4,
           "headline": "微软发布面向编程与网络安全的 AI 模型",
           "soWhat": "微软 侧的产品化动作，关注能否收费、替代谁。",
           "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
         },
         {
-          "n": 2,
+          "n": 5,
           "linkNo": 5,
           "headline": "华为云发布并开源昇腾原生具身世界模型 亿嘉和、拓斯达等为生态伙伴",
           "soWhat": "华为打响国产具身智能基础模型生态战，关注后续下游硬件厂商的适配进度与商业化落地产能。",
           "url": "https://finance.eastmoney.com/a/202611163931799519.html"
         }
       ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": []
     },
     {
       "id": "company-dynamics",

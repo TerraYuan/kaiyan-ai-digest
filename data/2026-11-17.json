@@ -51,6 +51,13 @@
           "headline": "论文：研究人员将 iPINN 算法用于宽带 CARS 光谱相位检索与非线性光谱逆向建模",
           "soWhat": "物理信息神经网络在光谱分析的交叉应用，能否落地相干等光学设备厂商的产品端仍需观察。",
           "url": "https://arxiv.org/abs/2609.00883v2"
+        },
+        {
+          "n": 7,
+          "linkNo": 7,
+          "headline": "华为云开源昇腾原生具身世界模型，亿嘉和与拓斯达等企业加入生态合作",
+          "soWhat": "华为打响国产具身智能基础模型生态战，关注后续商业化适配及生态伙伴的落地产能。",
+          "url": "https://finance.eastmoney.com/a/202611163931799519.html"
         }
       ]
     },
@@ -60,17 +67,10 @@
       "items": [
         {
           "n": 1,
-          "linkNo": 7,
+          "linkNo": 8,
           "headline": "英伟达推出 DGX Spark 开发者套件，主打桌面级超级计算与 AI 模型开发",
           "soWhat": "降低大模型与高性能计算在本地测试的硬件门槛，旨在锁定边缘端及科研机构的生态黏性。",
           "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
-        },
-        {
-          "n": 2,
-          "linkNo": 8,
-          "headline": "华为云开源昇腾原生具身世界模型，亿嘉和与拓斯达等企业加入生态合作",
-          "soWhat": "华为打响国产具身智能基础模型生态战，关注后续商业化适配及生态伙伴的落地产能。",
-          "url": "https://finance.eastmoney.com/a/202611163931799519.html"
         }
       ]
     },

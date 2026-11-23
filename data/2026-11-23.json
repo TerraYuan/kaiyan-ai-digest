@@ -2,8 +2,8 @@
   "date": "2026-11-23",
   "title": "AI产业信息简报",
   "disclaimer": "研究备忘，不是投资建议。",
-  "updatedAt": "2026-11-23T04:25:37.019Z",
-  "searchedUntil": "2026-11-23 12:25",
+  "updatedAt": "2026-11-23T07:04:49.498Z",
+  "searchedUntil": "2026-11-23 15:04",
   "perColumn": 8,
   "sections": [
     {
@@ -13,9 +13,30 @@
         {
           "n": 1,
           "linkNo": 1,
-          "headline": "论文：Meta研究人员提出用于扩散模型训练的NoiseRater噪声评估方法",
-          "soWhat": "属于学术层面增量，需观察相关训练优化技术能否实际整合至Meta的生成式AI模型产线中。",
+          "headline": "美国财长贝森特就英伟达首席执行官人选与治理架构发表公开表态",
+          "soWhat": "涉及核心芯片巨头的政商互动与治理讨论，关注是否影响公司长期战略决策。",
+          "url": "https://www.ithome.com/1/030/811.htm"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "headline": "广东规划十五五期攻关AI与存算一体芯片，北京推进算力设施绿电直连试点",
+          "soWhat": "地方政策从存算芯片底层研发到数据中心绿色能源供给进行全链路配套支持。",
+          "url": "https://finance.eastmoney.com/a/202611183933824846.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "headline": "论文：Meta提出NoiseRater算法，通过元学习优化扩散模型训练中的噪声估值",
+          "soWhat": "属于底层算法优化，后续需观察能否降本增效并集成至 Meta 的生成式 AI 产品及广告管线中。",
           "url": "https://arxiv.org/abs/2605.08144v3"
+        },
+        {
+          "n": 4,
+          "linkNo": 4,
+          "headline": "TML发布循环Transformer架构模型Inkling 2 Mini，多项表现在100B参数以内领先",
+          "soWhat": "关注循环架构在长文本与推理场景的算力开销优化能力，以及是否具备替代现有小模型的商业化潜力。",
+          "url": "https://www.ithome.com/1/030/907.htm"
         }
       ]
     },
@@ -25,10 +46,17 @@
       "items": [
         {
           "n": 1,
-          "linkNo": 2,
-          "headline": "紫光展锐联合比派基于UIS7885芯片发布5G开源单板计算机BPI-M2C",
-          "soWhat": "边缘计算与开源硬件生态扩展，关注芯片在工业及物联网端侧的实际出货量。",
-          "url": "https://www.ithome.com/1/030/800.htm"
+          "linkNo": 5,
+          "headline": "开源项目nospeaker利用MacBook的Taptic Engine马达驱动触控板震动发声",
+          "soWhat": "属于极客开源尝试而非官方硬件功能，对供应链及商业化影响有限。",
+          "url": "https://www.ithome.com/1/030/905.htm"
+        },
+        {
+          "n": 2,
+          "linkNo": 6,
+          "headline": "蚂蚁集团AI健康应用阿福发布硬件产品福环手环与福戒戒指",
+          "soWhat": "蚂蚁将AI健康服务由软件闭环延伸至自研硬件终端，关键看健康数据采集与付费服务转化率。",
+          "url": "https://www.ithome.com/1/030/788.htm"
         }
       ]
     },
@@ -38,51 +66,58 @@
       "items": [
         {
           "n": 1,
-          "linkNo": 3,
-          "headline": "A股市场盘中出现异动拉升",
-          "soWhat": "待核原文。",
-          "url": "https://finance.eastmoney.com/a/202611233937143879.html"
+          "linkNo": 7,
+          "headline": "Shopify CEO吕特克公开就英伟达高层变动与董事会决策发表评论",
+          "soWhat": "属于高管个人舆情，需甄别是否引发实质性治理风险或影响客户采购信心。",
+          "url": "https://www.ithome.com/1/030/908.htm"
         },
         {
           "n": 2,
-          "linkNo": 4,
-          "headline": "马斯克表示特斯拉AI4芯片成本翻番且下一代AI5芯片不会应用于特斯拉车辆",
-          "soWhat": "涉及车端智驾芯片演进路径与成本结构变动，需持续跟踪AI5芯片的去向及其对车载算力供给的影响。",
-          "url": "https://finance.eastmoney.com/a/202611233937142140.html"
+          "linkNo": 8,
+          "headline": "法国AI企业Mistral AI在新加坡设立亚太总部，面向区域政府提供定制模型",
+          "soWhat": "大模型企业加速出海及B端/G端本地化部署，有利于拉动亚太区域算力与数据中心需求。",
+          "url": "https://www.ithome.com/1/030/904.htm"
         },
         {
           "n": 3,
-          "linkNo": 5,
-          "headline": "长城汽车发布H6L HEV混动版官图并确定于11月27日广州车展上市",
-          "soWhat": "传统车企混动车型更新，侧重于终端新能源渗透，对AI产业链传导效应有限。",
-          "url": "https://www.ithome.com/1/030/805.htm"
+          "linkNo": 9,
+          "headline": "谷歌回应3D Emoji高硬件门槛系Google Play服务安全机制所致",
+          "soWhat": "属于软件服务安全与端侧资源占用平衡问题，对产业链硬件需求无直接推升。",
+          "url": "https://www.ithome.com/1/030/897.htm"
         },
         {
           "n": 4,
-          "linkNo": 6,
-          "headline": "美国更换国家网络总监以应对关键机构安全漏洞与网络攻击事件",
-          "soWhat": "网络安全事件升温提升云端与政府算力基础设施的安全防护需求。",
-          "url": "https://www.ithome.com/1/030/801.htm"
+          "linkNo": 10,
+          "headline": "近期新增133款生成式人工智能服务完成国内备案",
+          "soWhat": "国内AI应用合规化进程加快，有利于应用层商业化与垂直场景加速落地。",
+          "url": "https://finance.eastmoney.com/a/202611233937199640.html"
         },
         {
           "n": 5,
-          "linkNo": 7,
-          "headline": "韩国政府因AI与半导体行业风险升温拟随时启动证券市场稳定基金",
-          "soWhat": "凸显全球半导体与AI板块估值波动加剧，宏观政策入场托底旨在防范链条流动性风险。",
-          "url": "https://finance.eastmoney.com/a/202611233937142471.html"
+          "linkNo": 11,
+          "headline": "韩国私募机构MBK Partners计划私有化数位板厂商Wacom",
+          "soWhat": "消费电子与人机交互终端领域的资本动作，关注后续业务重组方向。",
+          "url": "https://www.ithome.com/1/030/889.htm"
         },
         {
           "n": 6,
-          "linkNo": 8,
-          "headline": "我国近期新增133款生成式人工智能服务完成合规备案",
-          "soWhat": "监管备案放行提速，有助于国产生成式AI应用加快商业化变现与合规上线。",
-          "url": "https://stock.eastmoney.com/a/202611233937137841.html"
+          "linkNo": 12,
+          "headline": "长城汽车发布H6L HEV混动版官图，搭载1.5T混动系统并将于11月27日上市",
+          "soWhat": "传统车企加快混动产品更新以争夺紧凑型SUV市场，关注其在智能化配置与性价比上的竞争力。",
+          "url": "https://www.ithome.com/1/030/805.htm"
         },
         {
           "n": 7,
-          "linkNo": 9,
-          "headline": "蚂蚁集团透露AI健康应用阿福用户数达1.5亿并呼吁推进医保商保衔接",
-          "soWhat": "垂直领域AI应用用户体量初具规模，推动医保商保接入是打通C端AI医疗变现闭环的关键。",
+          "linkNo": 13,
+          "headline": "加州监管机构对英伟达展开审查，评估是否涉及刑事法律违规",
+          "soWhat": "监管与合规风险加剧，可能增加英伟达在反垄断与商业竞争层面的法律开支与监管压力。",
+          "url": "https://www.ithome.com/1/030/800.htm"
+        },
+        {
+          "n": 8,
+          "linkNo": 14,
+          "headline": "蚂蚁集团CEO韩歆毅披露AI健康应用阿福用户数突破1.5亿",
+          "soWhat": "C端AI健康垂直应用规模显现，关注其与医疗保险支付端接轨的商业模式突破。",
           "url": "https://www.ithome.com/1/030/799.htm"
         }
       ]
@@ -93,30 +128,30 @@
       "items": [
         {
           "n": 1,
-          "linkNo": 10,
-          "headline": "工信部通报YY及快看漫画等23款存在信息窗口乱跳转违规行为的App及SDK",
-          "soWhat": "互联网应用合规监管持续深化，防范移动端违规流量变现行为。",
-          "url": "https://www.ithome.com/1/030/796.htm"
+          "linkNo": 15,
+          "headline": "中国投资年会上资本市场聚焦AI硬科技与耐心资本落地",
+          "soWhat": "一二级资本市场从短期概念炒作转向硬件基础设施与底层核心技术等长周期投入。",
+          "url": "https://finance.eastmoney.com/a/202611233937221329.html"
         },
         {
           "n": 2,
-          "linkNo": 11,
-          "headline": "中信建投研报指出受出口管制新规影响国产先进封装产能扩产进程有望加速",
-          "soWhat": "管制压力倒逼供应链本土化，先进封装（如CoWoS替代）成为突破算力瓶颈的核心环节。",
-          "url": "https://finance.eastmoney.com/a/202611233937036651.html"
+          "linkNo": 16,
+          "headline": "工信部通报宜搜小说、虎扑、懂球帝等App存在窗口乱跳转违规行为",
+          "soWhat": "移动应用监管持续收紧，相关消费级互联网平台的广告变现流量受到规范约束。",
+          "url": "https://finance.eastmoney.com/a/202611233937219039.html"
         },
         {
           "n": 3,
-          "linkNo": 12,
-          "headline": "工信部启动新一批“5G+工业互联网”融合应用城市试点",
-          "soWhat": "工业端网络与算力基础设施试点推进，拉动边缘计算与工业AI应用部署。",
+          "linkNo": 17,
+          "headline": "工信部启动新一批5G+工业互联网融合应用城市试点建设",
+          "soWhat": "政策从网络基础设施部署推向工业现场端侧应用落地，推动工业模组与边缘计算软硬件需求。",
           "url": "https://finance.eastmoney.com/a/202611223936939248.html"
         },
         {
           "n": 4,
-          "linkNo": 13,
-          "headline": "中国外交部就美国政府对英伟达芯片展开相关调查做出回应",
-          "soWhat": "地缘政治对芯片供应链干扰持续，需关注对高端AI芯片出货及合规销售的影响。",
+          "linkNo": 18,
+          "headline": "外交部就美国政府调查涉及英伟达芯片相关事项作出回应",
+          "soWhat": "地缘政治对先进算力芯片流向的限制与调查持续加码，影响芯片厂商的供应链合规履约。",
           "url": "https://finance.eastmoney.com/a/202611173932835930.html"
         }
       ]

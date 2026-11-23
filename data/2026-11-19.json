@@ -37,21 +37,20 @@
           "headline": "论文：学术界探讨大模型智能体在自我改进机制上的自主性路径",
           "soWhat": "待核原文。",
           "url": "https://arxiv.org/abs/2611.23219v1"
-        }
-      ]
-    },
-    {
-      "id": "product",
-      "label": "产品",
-      "items": [
+        },
         {
-          "n": 1,
+          "n": 5,
           "linkNo": 5,
           "headline": "华为云发布并开源昇腾原生具身世界模型，亿嘉和与拓斯达等签署生态合作",
           "soWhat": "华为打响国产具身智能基础模型生态战，关注后续下游硬件厂商的适配进度与商业化落地产能。",
           "url": "https://finance.eastmoney.com/a/202611163931799519.html"
         }
       ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": []
     },
     {
       "id": "company-dynamics",
