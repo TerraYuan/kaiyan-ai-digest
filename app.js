@@ -52,6 +52,7 @@ async function loadWeek(endDate) {
 
 function renderDigest(doc) {
   const sections = (doc.sections || [])
+    .filter((sec) => (sec.items || []).length)
     .map((sec) => {
       const items = sec.items || [];
       const body = items.length
@@ -71,7 +72,7 @@ function renderDigest(doc) {
     })
     .join("");
 
-  $("content").innerHTML = sections;
+  $("content").innerHTML = sections || `<p class="empty">这一天没有条目</p>`;
   const titleEl = $("hero-title");
   const sub = $("hero-sub");
   if (doc.kind === "week") {
@@ -179,6 +180,10 @@ async function boot() {
   });
   if (weekWanted) {
     await showWeek(weekWanted, weeks);
+    return;
+  }
+  if (!qsDate() && (index.latestWeek || weeks[0])) {
+    await showWeek(index.latestWeek || weeks[0], weeks);
     return;
   }
   const wanted = qsDate() || index.latest || dates[0] || "";
