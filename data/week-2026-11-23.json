@@ -8,13 +8,13 @@
   "archivedDates": [
     "2026-11-17",
     "2026-11-18",
-    "2026-11-19",
+    "2026-11-22",
     "2026-11-23"
   ],
-  "updatedAt": "2026-11-23T07:20:45.795Z",
+  "updatedAt": "2026-11-23T07:44:36.693Z",
   "originalUrl": "https://terrayuan.github.io/kaiyan-ai-digest/?w=2026-11-23",
   "perColumnMax": 10,
-  "itemCount": 13,
+  "itemCount": 4,
   "sections": [
     {
       "id": "tech",
@@ -23,86 +23,26 @@
         {
           "n": 1,
           "linkNo": 1,
-          "date": "2026-11-18",
-          "headline": "微软发布面向编程与网络安全的 AI 模型",
+          "date": "2026-11-23",
+          "headline": "蚂蚁发布百灵医疗健康大模型",
           "soWhat": "",
-          "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
+          "url": "https://finance.eastmoney.com/a/202611233937260413.html"
         },
         {
           "n": 2,
           "linkNo": 2,
-          "date": "2026-11-19",
-          "headline": "华为云发布并开源昇腾原生具身世界模型，亿嘉和与拓斯达等签署生态合作",
-          "soWhat": "华为打响国产具身智能基础模型生态战，关注后续下游硬件厂商的适配进度与商业化落地产能。",
-          "url": "https://finance.eastmoney.com/a/202611163931799519.html"
+          "date": "2026-11-23",
+          "headline": "智谱GLM-5.4上线：首款Loop架构国产旗舰模型，3万亿参数GLM-5.5预计12月发布",
+          "soWhat": "",
+          "url": "https://finance.eastmoney.com/a/202611233937248148.html"
         },
         {
           "n": 3,
           "linkNo": 3,
-          "date": "2026-11-17",
-          "headline": "三星电子正为 Meta 自研 AI 芯片定制开发专用的 HBM 存储器",
-          "soWhat": "CSP 巨头自研 ASIC 趋势强化，定制化 HBM 绑定削弱英伟达全家桶壁垒，打开存储厂商溢价空间。",
-          "url": "https://finance.eastmoney.com/a/202611173932708058.html"
-        },
-        {
-          "n": 4,
-          "linkNo": 4,
           "date": "2026-11-23",
-          "headline": "TML发布循环Transformer架构模型Inkling 2 Mini，多项表现在100B参数以内领先",
-          "soWhat": "关注循环架构在长文本与推理场景的算力开销优化能力，以及是否具备替代现有小模型的商业化潜力。",
+          "headline": "TML 发布循环 Transformer 模型 Inkling 2 Mini，多项表现在 100B 以内领先",
+          "soWhat": "",
           "url": "https://www.ithome.com/1/030/907.htm"
-        },
-        {
-          "n": 5,
-          "linkNo": 5,
-          "date": "2026-11-17",
-          "headline": "英伟达公布 MLPerf Training 测试结果，Vera Rubin 架构性能首次亮相",
-          "soWhat": "Vera Rubin 架构首秀刷新训练基准测试数据，进一步巩固其在云端 AI 芯片领域的统治地位。",
-          "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/"
-        }
-      ]
-    },
-    {
-      "id": "product",
-      "label": "产品",
-      "items": [
-        {
-          "n": 1,
-          "linkNo": 6,
-          "date": "2026-11-17",
-          "headline": "英伟达推出 DGX Spark 开发者套件，主打桌面级超级计算与 AI 模型开发",
-          "soWhat": "降低大模型与高性能计算在本地测试的硬件门槛，旨在锁定边缘端及科研机构的生态黏性。",
-          "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
-        },
-        {
-          "n": 2,
-          "linkNo": 7,
-          "date": "2026-11-23",
-          "headline": "蚂蚁集团AI健康应用阿福发布硬件产品福环手环与福戒戒指",
-          "soWhat": "蚂蚁将AI健康服务由软件闭环延伸至自研硬件终端，关键看健康数据采集与付费服务转化率。",
-          "url": "https://www.ithome.com/1/030/788.htm"
-        }
-      ]
-    },
-    {
-      "id": "company-dynamics",
-      "label": "公司动态",
-      "items": [
-        {
-          "n": 1,
-          "linkNo": 8,
-          "date": "2026-11-19",
-          "headline": "英特尔 18A 芯片代工工艺已签署首家外部客户",
-          "soWhat": "关注 18A 节点能否按期量产落地，验证其代工业务从自研走向外部商业化流片的关键节点。",
-          "url": "https://www.ithome.com/1/029/172.htm"
-        },
-        {
-          "n": 2,
-          "linkNo": 9,
-          "date": "2026-11-19",
-          "headline": "Anthropic 启动 IPO 进程准备公开上市",
-          "soWhat": "头部大模型独角兽走向二级市场，估值与财务数据公开将为整条模型层赛道重新定价。",
-          "url": "https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/"
         }
       ]
     },
@@ -112,35 +52,11 @@
       "items": [
         {
           "n": 1,
-          "linkNo": 10,
-          "date": "2026-11-19",
-          "headline": "工信部发布灵巧手及一体化关节等 5 项人形机器人行业标准",
-          "soWhat": "国家级标准化规范出台，加速人形机器人核心零部件规格统一与产业化降本进程。",
-          "url": "https://finance.eastmoney.com/a/202611183934223430.html"
-        },
-        {
-          "n": 2,
-          "linkNo": 11,
+          "linkNo": 4,
           "date": "2026-11-17",
-          "headline": "工信部批准《具身智能数据生成系统技术要求》等 274 项人工智能行业标准",
-          "soWhat": "具身智能数据生成与基础设施标准化步入正轨，有利于降低行业通用数据采集与训练的摩擦成本。",
-          "url": "https://finance.eastmoney.com/a/202611173932536176.html"
-        },
-        {
-          "n": 3,
-          "linkNo": 12,
-          "date": "2026-11-18",
-          "headline": "美国发布限制远程获取先进半导体相关措施，中国商务部：若美方一意孤行，中方将采取反制措施",
+          "headline": "工信部批准《人工智能 关键基础技术 具身智能数据生成系统技术要求》等274项行业标准",
           "soWhat": "",
-          "url": "https://finance.eastmoney.com/a/202611173933239276.html"
-        },
-        {
-          "n": 4,
-          "linkNo": 13,
-          "date": "2026-11-17",
-          "headline": "工信部发布近 800 项行业标准，加速 AI 在钢铁环保监测等重工业场景落地",
-          "soWhat": "推进“AI+工业”标准化落地，赋能传统重工业能耗监管，催化工业软件及场景化解决方案需求。",
-          "url": "https://finance.eastmoney.com/a/202611163931809341.html"
+          "url": "https://finance.eastmoney.com/a/202611173932536176.html"
         }
       ]
     }

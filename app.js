@@ -81,7 +81,9 @@ function renderDigest(doc) {
     const eyebrow = $("eyebrow");
     if (eyebrow) eyebrow.hidden = true;
     if (sub) {
-      sub.textContent = `${doc.startDate}–${doc.endDate} · 精选 ${doc.itemCount || 0} 条 · 存档 ${doc.archiveDays || 0} 天。标题可打开原文。`;
+      sub.textContent = doc.source === "search"
+        ? `${doc.startDate}–${doc.endDate} · 自动检索近 7 日 · 精选 ${doc.itemCount || 0} 条。标题可打开原文。`
+        : `${doc.startDate}–${doc.endDate} · 精选 ${doc.itemCount || 0} 条 · 存档 ${doc.archiveDays || 0} 天。标题可打开原文。`;
     }
     return;
   }
