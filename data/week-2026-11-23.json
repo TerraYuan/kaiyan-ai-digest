@@ -11,10 +11,10 @@
     "2026-11-22",
     "2026-11-23"
   ],
-  "updatedAt": "2026-11-23T08:48:40.652Z",
+  "updatedAt": "2026-11-23T09:01:12.970Z",
   "originalUrl": "https://terrayuan.github.io/kaiyan-ai-digest/?w=2026-11-23",
   "perColumnMax": 10,
-  "itemCount": 7,
+  "itemCount": 8,
   "sections": [
     {
       "id": "tech",
@@ -45,12 +45,26 @@
       ]
     },
     {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 3,
+          "date": "2026-11-23",
+          "headline": "孙正义的疯狂构想：曾考虑1万亿美元收购SK海力士 但三重障碍导致计划暂停",
+          "soWhat": "",
+          "url": "https://finance.eastmoney.com/a/202611233937327644.html"
+        }
+      ]
+    },
+    {
       "id": "policy",
       "label": "政策",
       "items": [
         {
           "n": 1,
-          "linkNo": 3,
+          "linkNo": 4,
           "date": "2026-11-17",
           "headline": "工信部批准《人工智能 关键基础技术 具身智能数据生成系统技术要求》等274项行业标准",
           "soWhat": "",
@@ -58,7 +72,7 @@
         },
         {
           "n": 2,
-          "linkNo": 4,
+          "linkNo": 5,
           "date": "2026-11-23",
           "headline": "工信部：推动传统电子信息领域与人工智能深度融合 加大产业链上下游利益共担机制建设",
           "soWhat": "",
@@ -66,7 +80,7 @@
         },
         {
           "n": 3,
-          "linkNo": 5,
+          "linkNo": 6,
           "date": "2026-11-22",
           "headline": "工信部明确，启动新一批“5G+工业互联网”融合应用城市试点",
           "soWhat": "",
@@ -74,7 +88,7 @@
         },
         {
           "n": 4,
-          "linkNo": 6,
+          "linkNo": 7,
           "date": "2026-11-18",
           "headline": "《数字广东建设“十五五”规划》：攻关人工智能芯片，存算一体芯片等硬件；北京鼓励工厂（算力设施）开发利用分布式光伏等，探索开展绿电直连；八省市获批工信部6G创新部省协同试点——《投资早参》",
           "soWhat": "",
@@ -82,7 +96,7 @@
         },
         {
           "n": 5,
-          "linkNo": 7,
+          "linkNo": 8,
           "date": "2026-11-17",
           "headline": "外交部回应美升级芯片出口管制：典型的经济胁迫和“长臂管辖” 中方将采取必要措施",
           "soWhat": "",
