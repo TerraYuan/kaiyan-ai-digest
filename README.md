@@ -6,6 +6,7 @@
 
 - 站点：https://terrayuan.github.io/kaiyan-ai-digest/
 - 指定日期：https://terrayuan.github.io/kaiyan-ai-digest/?d=2026-11-12
+- 每周要闻：https://terrayuan.github.io/kaiyan-ai-digest/?w=2026-11-23（`w` 为窗口截止日，含当天共 7 个自然日）
 - 仓库：https://github.com/TerraYuan/kaiyan-ai-digest
 
 公众号文末「原文链接」填当日地址即可。
@@ -39,13 +40,14 @@ node pipeline/publish-digest.js pipeline/last-brief.json
 **默认流程**：本地 `publish-digest` 写入 `data/` 后，在本目录 `git commit` + `git push origin main`，由 GitHub Pages 对外提供。  
 本地 `E:\AI公号\*_阅读原文.html` 只作备份，**不能**代替公网链接。
 
-阅读原文填：
+日更阅读原文填 `?d=`，每周要闻填 `?w=`（截止日）：
 
 ```text
 https://terrayuan.github.io/kaiyan-ai-digest/?d=2026-11-17
+https://terrayuan.github.io/kaiyan-ai-digest/?w=2026-11-23
 ```
 
-不写日期则打开最新一天。
+不写参数则打开最新一天。周报由侧栏「每周要闻」或 `node pipeline/weekly.js` 写入 `data/week-YYYY-MM-DD.json`。
 
 > 静态托管上的「上传页」只能校验/下载 JSON；真正写入需本地 `server.js`，或把 JSON 放进 `data/` 后重新部署。
 

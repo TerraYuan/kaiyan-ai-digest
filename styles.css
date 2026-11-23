@@ -131,6 +131,13 @@ h1 {
   font-weight: 600;
 }
 
+.when {
+  margin-left: 6px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 500;
+}
+
 .so {
   margin: 4px 0 0;
   color: var(--muted);

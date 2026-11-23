@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-19",
+  "title": "AI产业信息简报",
+  "disclaimer": "研究备忘，不是投资建议。",
+  "updatedAt": "2026-11-19T02:00:03.051Z",
+  "searchedUntil": "2026-11-19 10:00",
+  "perColumn": 8,
+  "sections": [
+    {
+      "id": "tech",
+      "label": "技术",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "headline": "英特尔 18A 芯片代工工艺已签署首家外部客户",
+          "soWhat": "关注 18A 节点能否按期量产落地，验证其代工业务从自研走向外部商业化流片的关键节点。",
+          "url": "https://www.ithome.com/1/029/172.htm"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "headline": "地方政策集中发力，广东布局存算一体芯片攻关，北京推动算力设施绿电直连",
+          "soWhat": "政策横切算力芯片与算力能源供给两端，持续强化基建支持力度。",
+          "url": "https://finance.eastmoney.com/a/202611183933824846.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "headline": "论文：研究人员提出用于混合视觉与大语言模型的低延迟流式推理框架 Spool",
+          "soWhat": "学术增量，待核原文后看能否落到推理算力成本优化与端侧部署。",
+          "url": "https://arxiv.org/abs/2611.23228v1"
+        },
+        {
+          "n": 4,
+          "linkNo": 4,
+          "headline": "论文：学术界探讨大模型智能体在自我改进机制上的自主性路径",
+          "soWhat": "待核原文。",
+          "url": "https://arxiv.org/abs/2611.23219v1"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 5,
+          "headline": "华为云发布并开源昇腾原生具身世界模型，亿嘉和与拓斯达等签署生态合作",
+          "soWhat": "华为打响国产具身智能基础模型生态战，关注后续下游硬件厂商的适配进度与商业化落地产能。",
+          "url": "https://finance.eastmoney.com/a/202611163931799519.html"
+        }
+      ]
+    },
+    {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 6,
+          "headline": "马斯克就英伟达管理层变动公开发声，认为黄仁勋应继续留任 CEO",
+          "soWhat": "市场关注高管变动对英伟达战略稳定性的影响，人的信号往往先于基本面体现。",
+          "url": "https://database.caixin.com/2026-11-19/102506470.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 7,
+          "headline": "腾讯管理层明确 AI 资本开支预计于 2028 年回落，并持续加大模型应用投入",
+          "soWhat": "明确了巨头资本开支的时间表，短期算力采购依然高企，中长期看应用变现对 ROI 的消化能力。",
+          "url": "https://finance.eastmoney.com/a/202611193934867554.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 8,
+          "headline": "三星电子回应市场担忧，认为高杠杆云服务商暂不会引发 AI 行业泡沫",
+          "soWhat": "上游存储大厂向市场传递需求信心，表明 HBM 与数据中心存储需求依旧强劲。",
+          "url": "https://finance.eastmoney.com/a/202611193934864820.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 9,
+          "headline": "Anthropic 启动 IPO 进程准备公开上市",
+          "soWhat": "头部大模型独角兽走向二级市场，估值与财务数据公开将为整条模型层赛道重新定价。",
+          "url": "https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/"
+        },
+        {
+          "n": 5,
+          "linkNo": 10,
+          "headline": "苹果与三星电子或达成长期 DRAM 存储芯片供应协议",
+          "soWhat": "消费电子与 AI 端侧需求复苏下，巨头提前锁死关键存储资源，稳定上游供给链。",
+          "url": "https://finance.eastmoney.com/a/202611193934867187.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 11,
+          "headline": "港股半导体板块异动，华虹半导体等晶圆代工厂股价出现上涨",
+          "soWhat": "二级市场股价短期波动，关注成熟制程代工产能利用率回升情况。",
+          "url": "https://finance.eastmoney.com/a/202611193934860581.html"
+        },
+        {
+          "n": 7,
+          "linkNo": 12,
+          "headline": "微软 CEO 纳德拉预警 AI 系统普及正增加网络安全的脆弱性",
+          "soWhat": "云巨头掌门人提示安全风险，预示 AI 安全与防护软件有望成为下一步必经的 IT 基础设施开支。",
+          "url": "https://finance.eastmoney.com/a/202611193934854978.html"
+        },
+        {
+          "n": 8,
+          "linkNo": 13,
+          "headline": "市场分析指出国产算力产业链国产替代逻辑持续增强",
+          "soWhat": "待核原文。",
+          "url": "https://finance.eastmoney.com/a/202611193934828638.html"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "label": "政策",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 14,
+          "headline": "外交部表示中俄美三国元首将就全球和平与重大地缘议题交换意见",
+          "soWhat": "地缘政治宏观信号，待核原文。",
+          "url": "https://finance.caixin.com/2026-11-19/102506415.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 15,
+          "headline": "工信部发布灵巧手及一体化关节等 5 项人形机器人行业标准",
+          "soWhat": "国家级标准化规范出台，加速人形机器人核心零部件规格统一与产业化降本进程。",
+          "url": "https://finance.eastmoney.com/a/202611183934223430.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 16,
+          "headline": "美国拟进一步限制海外云端先进算力访问权限",
+          "soWhat": "制裁从硬件出口扩大至云端算力租用，倒逼国内企业加快全栈国产算力栈的建设与适配。",
+          "url": "https://finance.eastmoney.com/a/202611183933790424.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 17,
+          "headline": "中国商务部就美方限制远程获取先进半导体措施回应称将采取必要反制",
+          "soWhat": "跨国算力服务博弈升级，监管风险走高。",
+          "url": "https://finance.eastmoney.com/a/202611173933239276.html"
+        },
+        {
+          "n": 5,
+          "linkNo": 18,
+          "headline": "外交部表态反对美方长臂管辖与针对科技企业的经济胁迫",
+          "soWhat": "宏观地缘表态，待核原文。",
+          "url": "https://finance.eastmoney.com/a/202611173933177643.html"
+        },
+        {
+          "n": 6,
+          "linkNo": 19,
+          "headline": "外交部批评美方干涉国际科技合作与半导体正常贸易",
+          "soWhat": "地缘政治宏观信号，待核原文。",
+          "url": "https://finance.eastmoney.com/a/202611173932843429.html"
+        },
+        {
+          "n": 7,
+          "linkNo": 20,
+          "headline": "外交部回应美国政府调查英伟达芯片交易相关事项",
+          "soWhat": "英伟达合规调查关注度升温，影响后续供应链流通稳定。",
+          "url": "https://finance.eastmoney.com/a/202611173932835930.html"
+        }
+      ]
+    }
+  ]
+}

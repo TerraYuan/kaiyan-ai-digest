@@ -1,0 +1,132 @@
+{
+  "kind": "week",
+  "title": "AI产业一周",
+  "disclaimer": "研究备忘，不是投资建议。",
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-23",
+  "archiveDays": 4,
+  "archivedDates": [
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-23"
+  ],
+  "updatedAt": "2026-11-23T03:26:32.421Z",
+  "originalUrl": "https://terrayuan.github.io/kaiyan-ai-digest/?w=2026-11-23",
+  "perColumnMax": 10,
+  "itemCount": 11,
+  "sections": [
+    {
+      "id": "tech",
+      "label": "技术",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 1,
+          "date": "2026-11-23",
+          "headline": "英特尔为18A芯片制程与先进封装业务签下首家外部客户微软",
+          "soWhat": "验证英特尔IFS代工业务从自研走向外部商业化流片的落地能力，若18A产能顺利爬坡，将对台积电先进制程独占格局构成潜在分流压力。",
+          "url": "https://finance.eastmoney.com/a/202611223936964886.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 2,
+          "date": "2026-11-17",
+          "headline": "三星电子正为 Meta 自研 AI 芯片定制开发专用的 HBM 存储器",
+          "soWhat": "CSP 巨头自研 ASIC 趋势强化，定制化 HBM 绑定削弱英伟达全家桶壁垒，打开存储厂商溢价空间。",
+          "url": "https://finance.eastmoney.com/a/202611173932708058.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 3,
+          "date": "2026-11-17",
+          "headline": "英伟达公布 MLPerf Training 测试结果，Vera Rubin 架构性能首次亮相",
+          "soWhat": "Vera Rubin 架构首秀刷新训练基准测试数据，进一步巩固其在云端 AI 芯片领域的统治地位。",
+          "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "产品",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 4,
+          "date": "2026-11-19",
+          "headline": "华为云发布并开源昇腾原生具身世界模型，亿嘉和与拓斯达等签署生态合作",
+          "soWhat": "华为打响国产具身智能基础模型生态战，关注后续下游硬件厂商的适配进度与商业化落地产能。",
+          "url": "https://finance.eastmoney.com/a/202611163931799519.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 5,
+          "date": "2026-11-18",
+          "headline": "微软发布面向编程与网络安全的 AI 模型",
+          "soWhat": "微软 侧的产品化动作，关注能否收费、替代谁。",
+          "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
+        },
+        {
+          "n": 3,
+          "linkNo": 6,
+          "date": "2026-11-17",
+          "headline": "英伟达推出 DGX Spark 开发者套件，主打桌面级超级计算与 AI 模型开发",
+          "soWhat": "降低大模型与高性能计算在本地测试的硬件门槛，旨在锁定边缘端及科研机构的生态黏性。",
+          "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
+        }
+      ]
+    },
+    {
+      "id": "company-dynamics",
+      "label": "公司动态",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 7,
+          "date": "2026-11-19",
+          "headline": "Anthropic 启动 IPO 进程准备公开上市",
+          "soWhat": "头部大模型独角兽走向二级市场，估值与财务数据公开将为整条模型层赛道重新定价。",
+          "url": "https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "label": "政策",
+      "items": [
+        {
+          "n": 1,
+          "linkNo": 8,
+          "date": "2026-11-17",
+          "headline": "工信部批准《具身智能数据生成系统技术要求》等 274 项人工智能行业标准",
+          "soWhat": "具身智能数据生成与基础设施标准化步入正轨，有利于降低行业通用数据采集与训练的摩擦成本。",
+          "url": "https://finance.eastmoney.com/a/202611173932536176.html"
+        },
+        {
+          "n": 2,
+          "linkNo": 9,
+          "date": "2026-11-19",
+          "headline": "工信部发布灵巧手及一体化关节等 5 项人形机器人行业标准",
+          "soWhat": "国家级标准化规范出台，加速人形机器人核心零部件规格统一与产业化降本进程。",
+          "url": "https://finance.eastmoney.com/a/202611183934223430.html"
+        },
+        {
+          "n": 3,
+          "linkNo": 10,
+          "date": "2026-11-18",
+          "headline": "美国发布限制远程获取先进半导体相关措施，中国商务部：若美方一意孤行，中方将采取反制措施",
+          "soWhat": "政策横切供给或市场准入，先看打在哪一环实体，再谈主题。",
+          "url": "https://finance.eastmoney.com/a/202611173933239276.html"
+        },
+        {
+          "n": 4,
+          "linkNo": 11,
+          "date": "2026-11-17",
+          "headline": "工信部发布近 800 项行业标准，加速 AI 在钢铁环保监测等重工业场景落地",
+          "soWhat": "推进“AI+工业”标准化落地，赋能传统重工业能耗监管，催化工业软件及场景化解决方案需求。",
+          "url": "https://finance.eastmoney.com/a/202611163931809341.html"
+        }
+      ]
+    }
+  ]
+}
